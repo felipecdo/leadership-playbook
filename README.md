@@ -1,10 +1,8 @@
 # Princípios de liderança
 
-Esse markdown foi desenhado como um compilado do processo de desenvolvimento de Liderança. Diferente de um artigo, ele é um documento evolutivo e iterativo.
+Esse markdown foi desenhado como um compilado do meu processo de desenvolvimento de liderança. Diferente de um artigo, ele é um documento evolutivo e iterativo. O objetivo é compartilhar os princípios e principais ferramentas em uma liderança técnica que possam ajudar a mais pessoas terem a experiência de liderança.
 
-O objetivo é compartilhar os princípios e principais ferramentas em uma liderança técnica que possam ajudar a mais pessoas terem a experiência de liderança.
-
-Ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-playbook) e incrementada como todo apoio e Material da [a.karta](https://akarta.com.br/)
+Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-playbook) e incrementada como todo apoio e Material da [a.karta](https://akarta.com.br/) e outras referências que serão mantidas como link.
 
 ## Sumário
 
