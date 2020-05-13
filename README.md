@@ -8,7 +8,9 @@ Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-play
 
 ## Princípios
 
-Uma antiga arte japonesa, chamada Kintsugi ("emenda de ouro") é uma forma de reparar cerâmica quebrada com pó de ouro ou algum material com brilho, tornando-a uma peça única pois suas rachadoras beiram o impossível de se reproduzir. Como resultado, a peça restaurada se torna muito mais valiosa.
+Kintsugi ("emenda de ouro") é uma antiga arte japonesa que consiste em reparar cerâmica quebrada com pó de ouro ou algum material com brilho, tornando-a uma peça única pois suas rachadoras beiram o impossível de se reproduzir. Como resultado, a peça restaurada se torna muito mais valiosa.
+
+FOTO AQUI FOTO AQUI FOTO AQUI FOTO AQUI FOTO AQUI 
 
 Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras" que as fazem únicas. Devido elas, as história e imperfeições de cada pessoa é especial e deve ser respeitada como tal. O líder neste cenário é alguém com um papel tático dentro de uma organizaço capaz de perceber as peças que o time possui, uní-las em cima de algo valioso como um objetivo ou um produto.
 
