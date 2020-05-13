@@ -20,7 +20,7 @@ No cenário de Desenvolvimento de Software, os princípios que guiarão o docume
 * Se perguntar constantemente se estamos sendo Lean
 * Ser um facilitador, um meio de campo, entre as diferentes forças que interagem em um time
 
-## Time
+## Papéis e responsabilidades
 
 Um time é uma célula auto-suficiente que é composta por diversos papéis e que respeite a regra do Two Pizzas Team (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno).
 
