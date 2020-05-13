@@ -99,6 +99,10 @@ LINKS AQUIII LINKS AQUIII LINKS AQUIII LINKS AQUIII LINKS AQUIII
 
 ### Goal Setting
 
+"Uma vida com propósito é aquela em que eu entenda as razões pelas quais faço o que faço e pelas quais claramente deixo de fazer o que não faço." 
+["Por que fazemos o que fazemos?" - Cortella M.](https://www.amazon.com/Por-que-fazemos-Portuguese-ebook/dp/B01JT2I3DA/)
+
+
 Radical Candor
 
 ## Organização Pessoal
