@@ -37,10 +37,18 @@ Sendo assim, o time é composto por papéis que podem ser diversos como:
 
 Assim como na democracia (ideal), o poder está dividido em cada um dos papéis e é responsabilidade do líder:
 * Facilitar a comunicação
-* Entender que toda decisão é uma aposta e estar comprometido com o resultado do time
+* Repetir e relembrar o alvo (destino)
+* Perceber o estágio e maturidade do time
+* Entender que toda decisão é uma aposta e estar comprometido com o resultado junto com o time é vital
 * Eliminar o obscuro fazendo as perguntas certas
 * Espalhar o conhecimento através de cerimônias e tutoria
-* Alertar quem precisa em caso de falha, bug, incidente ou qualquer forma que impacte as projeções da empresa ou o dia-a-dia de seus clientes.
+
+Não deveria ser atribuição do líder:
+* Ser gargalo
+  * Se a palavra final em decisões técnicas é do líder, você está sendo gargalo.
+* Participar somente das cerimônias e 1:1s
+  * Alocar horas do seu dia dedicado a tirar dúvidas gerais do time ou simplesmente uma conversa
+  
 
 FALTA BASTANTE BASE AQUI...ACHISMOS FEIOS
 
