@@ -97,6 +97,21 @@ Radical Candor
 
 *["Seja foda! - Caio Carneiro"](https://www.amazon.com.br/Seja-foda-Portuguese-Caio-Carneiro-ebook/dp/B079GZM3P5)*
 
+### Processos e ferramentas
+
+Manifesto agil
+
+Sobre processo:
+> "Rotina não é monotonia, [...] a rotina consiste em uma série de procedimentos-padrão com os quais um processo completa. E esse nível de repetibilidade é o que torna a rotina mais adequada. [...] A monotonia é a morte da motivação. As pessoas [...] tentam alterar a situação quando veem o risco de monotonia”
+
+*["Por que fazemos o que fazemos?" - Mario Sergio Cortella](https://www.amazon.com/Por-que-fazemos-Portuguese-ebook/dp/B01JT2I3DA/)*
+
+Ferramentas:
+
+> Tools play an important role because they allow you to automate. [...] Data science team is motivated by solving challenging problems. Automating repetitive weekly reports can help engineers to focus on some new challenging problems. 
+
+https://learning.oreilly.com/library/view/the-care-and/9781492053972/ch01.html#your_mission_should_you_choose_to_accept_it
+
 
 
 ## Organização Pessoal
