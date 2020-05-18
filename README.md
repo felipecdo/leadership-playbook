@@ -6,13 +6,9 @@ Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-play
 
 ## Sumário
 
-## Princípios
+## Papéis e responsabilidades
 
-Kintsugi ("emenda de ouro") é uma antiga arte japonesa que consiste em reparar cerâmica quebrada com pó de ouro ou algum material com brilho, tornando-a uma peça única pois suas rachadoras beiram o impossível de se reproduzir. Como resultado, a peça restaurada se torna muito mais valiosa.
-
-FOTO AQUI FOTO AQUI FOTO AQUI FOTO AQUI FOTO AQUI 
-
-Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras" que as fazem únicas. Devido elas, as história e imperfeições de cada pessoa é especial e deve ser respeitada como tal. O líder neste cenário é alguém com um papel tático dentro de uma organizaço capaz de perceber as peças que o time possui, uní-las em cima de algo valioso como um objetivo ou um produto.
+Um time é uma célula auto-suficiente que é composta por diversos papéis e que respeite a regra do Two Pizzas Team (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno).
 
 No cenário de Desenvolvimento de Software, os princípios que guiarão o documento são:
 * Entender e cuidar a individualidade de cada pessoa
@@ -20,35 +16,13 @@ No cenário de Desenvolvimento de Software, os princípios que guiarão o docume
 * Se perguntar constantemente se estamos sendo Lean
 * Ser um facilitador, um meio de campo, entre as diferentes forças que interagem em um time
 
-## Papéis e responsabilidades
-
-Um time é uma célula auto-suficiente que é composta por diversos papéis e que respeite a regra do Two Pizzas Team (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno).
-
-(Citar o Accelerate aqui)
-
-Sendo assim, o time é composto por papéis que podem ser diversos como:
-* Desenvolvedores
-* Analista de Dados
-* UX Designer
-* UX Researcher
-* PM/PO (Product/Project Manager ou Product Owner) [[1]](https://medium.com/rd-shipit/desmistificando-product-manager-e-product-owner-8a17104c8662) [[2]](https://www.infoq.com/br/articles/gerente-produto-projeto-programa/) [[3]](http://productbackstage.com.br/episodio-9-technical-product-managament-com-gabriela-rojas-nubank/)
-* Analista de Suporte
-* Entre diversas outras diferenças aqui
-
-Assim como na democracia (ideal), o poder está dividido em cada um dos papéis e é responsabilidade do líder:
-* Facilitar a comunicação
-* Repetir e relembrar o alvo (destino)
-* Perceber o estágio e maturidade do time
-* Entender que toda decisão é uma aposta e estar comprometido com o resultado junto com o time é vital
-* Eliminar o obscuro fazendo as perguntas certas
-* Espalhar o conhecimento através de cerimônias e tutoria
-
 Não deveria ser atribuição do líder:
 * Ser gargalo
   * Se a palavra final em decisões técnicas é do líder, você está sendo gargalo.
 * Participar somente das cerimônias e 1:1s
   * Alocar horas do seu dia dedicado a tirar dúvidas gerais do time ou simplesmente uma conversa
-  
+
+
 
 FALTA BASTANTE BASE AQUI...ACHISMOS FEIOS
 
@@ -65,6 +39,17 @@ Accelerate em peso aqui
 ### Planning
 
 ### One on Ones
+
+Esta é a cerimônia mais importante na construção de um relacionamento líder-liderado. É aqui que acompanhamos:
+- O passado: Feedback sobre comportamentos e entregas
+- O presente: Performance, clima e relacionamento com a equipe
+- O futuro: Tour of duty e alinhamento de expectativas
+
+> Kintsugi ("emenda de ouro") é uma antiga arte japonesa que consiste em reparar cerâmica quebrada com pó de ouro ou algum material com brilho, tornando-a uma peça única pois suas rachadoras beiram o impossível de se reproduzir. Como resultado, a peça restaurada se torna muito mais valiosa.
+
+> Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras" que as fazem únicas. Devido elas, as história e imperfeições de cada pessoa é especial e deve ser respeitada como tal. O líder neste cenário é alguém com um papel tático dentro de uma organizaço capaz de perceber as peças que o time possui, uní-las em cima de algo valioso como um objetivo ou um produto.
+
+Lembre-se sempre que este é o momento que deve ser individualizado: o que funciona para uma pessoa pode não funcionar para outra (ou até mesmo para a mesma pessoa em um tempo diferente)
 
 Rituais geralmente são:
 1. Começar sempre com: E aí, como está sendo a semana? Abrir espaço para deixar o liderado trazer o tópico
