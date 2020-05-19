@@ -6,6 +6,12 @@ Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-play
 
 ## Sumário
 
+## Motivação
+
+> Kintsugi ("emenda de ouro") é uma antiga arte japonesa que consiste em reparar cerâmica quebrada com pó de ouro ou algum material com brilho, tornando-a uma peça única pois suas rachadoras beiram o impossível de se reproduzir. Como resultado, a peça restaurada se torna muito mais valiosa.
+
+> Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras" que as fazem únicas. Devido elas, as história e imperfeições de cada pessoa é especial e deve ser respeitada como tal. O líder neste cenário é alguém com um papel tático dentro de uma organizaço capaz de perceber as peças que o time possui, uní-las em cima de algo valioso como um objetivo ou um produto.
+
 ## Papéis e responsabilidades
 
 Um time é uma célula auto-suficiente que é composta por diversos papéis e que respeite a regra do Two Pizzas Team (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno).
@@ -21,8 +27,7 @@ Não deveria ser atribuição do líder:
   * Se a palavra final em decisões técnicas é do líder, você está sendo gargalo.
 * Participar somente das cerimônias e 1:1s
   * Alocar horas do seu dia dedicado a tirar dúvidas gerais do time ou simplesmente uma conversa
-
-
+* Não ter filtro emocional
 
 FALTA BASTANTE BASE AQUI...ACHISMOS FEIOS
 
@@ -45,15 +50,15 @@ Esta é a cerimônia mais importante na construção de um relacionamento líder
 - O presente: Performance, clima e relacionamento com a equipe
 - O futuro: Tour of duty e alinhamento de expectativas
 
-> Kintsugi ("emenda de ouro") é uma antiga arte japonesa que consiste em reparar cerâmica quebrada com pó de ouro ou algum material com brilho, tornando-a uma peça única pois suas rachadoras beiram o impossível de se reproduzir. Como resultado, a peça restaurada se torna muito mais valiosa.
+Ele tem como premissa as (4 fases do aprendizado)[https://focuslife.com.br/4-fases-do-aprendizado-pnl/]
 
-> Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras" que as fazem únicas. Devido elas, as história e imperfeições de cada pessoa é especial e deve ser respeitada como tal. O líder neste cenário é alguém com um papel tático dentro de uma organizaço capaz de perceber as peças que o time possui, uní-las em cima de algo valioso como um objetivo ou um produto.
+![Fases do Aprendizado](./images/fases-do-aprendizado)
 
 Lembre-se sempre que este é o momento que deve ser individualizado: o que funciona para uma pessoa pode não funcionar para outra (ou até mesmo para a mesma pessoa em um tempo diferente)
 
 Rituais geralmente são:
-1. Começar sempre com: E aí, como está sendo a semana? Abrir espaço para deixar o liderado trazer o tópico
-2. Trazer um dos tópicos abaixo
+1. Abrir espaço para deixar o liderado trazer o tópico principal (Começar sempre com: E aí, como está sendo a semana?)
+2. Trazer um dos tópicos abaixo, se tiver tempo.
 3. Finalizar a 1:1 com algo "O que podemos fazer para evoluirmos no que falamos hoje? Vamos chegar a uma solução em conjunto?"
 
 #### 1:1s de futuro profissional
@@ -82,14 +87,44 @@ Rituais geralmente são:
 
 LINKS AQUIII LINKS AQUIII LINKS AQUIII LINKS AQUIII LINKS AQUIII 
 
-### Goal Setting
+### Alinhamento de Objetivos (Goal Setting)
 
 > "Uma vida com propósito é aquela em que eu entenda as razões pelas quais faço o que faço e pelas quais claramente deixo de fazer o que não faço." 
+
 > "Até algum tempo atrás, a vida era muito menos complexa e a intenção principal era sobreviver. Isto é, obter recursos para montar uma família e ter um patrimônio que se pudesse deixar de herança. Como a sociedade hoje é mais focada no indivíduo, a ideia de propósito está marcada por um conceito que já existiu e voltou com força: o da realização."
 
 *["Por que fazemos o que fazemos?" - Mario Sergio Cortella](https://www.amazon.com/Por-que-fazemos-Portuguese-ebook/dp/B01JT2I3DA/)*
 
-Radical Candor
+
+Alinhar objetivos é essencial para uma boa comunicação líder-liderado. A importância de chegar a objetivos comuns do time e pessoais é que eles deixam clara a sua relação com as pessoas do time e como (Key Results) devem ser alcançados.
+
+PESQUISAR UM POUCO MAIS SOBRE OKRs
+
+Idealmente trabalha-se com 2 tipos de Goals para um determinado tempo (Semestre/Trimestre):
+1. Objetivo de entrega ou do time: Como um time, precisamos estar alinhados com os objetivos da empresa. Neste sentido, os objetivos aqui explorados são alinhados para que consigamos atingir um marco dentro da Organizaço e conseguir novos investimentos. 
+2. Objetivo pessoal ou de desenvolvimento: Toda pessoa que está no grupo tem o interesse de se desenvolver
+
+Os objetivos de time alinham somente que iremos passar de um ponto A para um ponto B.
+
+```
+A----|-----|-----|----> B(performance)
+```
+
+Para uma organização continuar inovando. Esta passagem de fase muitas vezes não é suficiente. Fazer do mesmo jeito do que fazíamos ontem pode ser o primeiro passo para o fracasso. No entanto, alinhar as goals pessoais conseguem transformar a visão das pessoas, propondo e explorando novas soluções, transformando o tour de uma pessoa:
+
+```
+
+                    /--> C,D(desenvolvimento)     ^
+                   /                              | proximos 
+                  /                               |
+A----|-----|-----|----> B(performance)            | tours
+```
+
+Para o desenvolvimento pessoal, existe um framework: 70/20/10 
+* 70% do tempo na prática
+* 20% do tempo com pessoas/mentores
+* 10% do tempo em um estudo formal como livros ou cursos
+
 
 ### Comemorações e Entrega
 
@@ -112,6 +147,9 @@ Ferramentas:
 
 https://learning.oreilly.com/library/view/the-care-and/9781492053972/ch01.html#your_mission_should_you_choose_to_accept_it
 
+### O paradoxo da Intolerância
+
+"Nada melhor para desmotivar uma boa pessoa é tolerar uma ruim"
 
 
 ## Organização Pessoal
