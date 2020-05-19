@@ -52,7 +52,7 @@ Esta é a cerimônia mais importante na construção de um relacionamento líder
 
 Ele tem como premissa as (4 fases do aprendizado)[https://focuslife.com.br/4-fases-do-aprendizado-pnl/]
 
-![Fases do Aprendizado](./images/fases-do-aprendizado)
+![Fases do Aprendizado](./images/fases-do-aprendizado.png)
 
 Lembre-se sempre que este é o momento que deve ser individualizado: o que funciona para uma pessoa pode não funcionar para outra (ou até mesmo para a mesma pessoa em um tempo diferente)
 
