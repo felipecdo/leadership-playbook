@@ -10,23 +10,22 @@ Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-play
 
 > Kintsugi ("emenda de ouro") é uma antiga arte japonesa que consiste em reparar cerâmica quebrada com pó de ouro ou algum material com brilho, tornando-a uma peça única pois suas rachadoras beiram o impossível de se reproduzir. Como resultado, a peça restaurada se torna muito mais valiosa.
 
-> Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras" que as fazem únicas. Devido elas, as história e imperfeições de cada pessoa é especial e deve ser respeitada como tal. O líder neste cenário é alguém com um papel tático dentro de uma organizaço capaz de perceber as peças que o time possui, uní-las em cima de algo valioso como um objetivo ou um produto.
+Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras" que as fazem únicas. Devido elas, as história e imperfeições de cada pessoa é especial e deve ser respeitada como tal. O líder neste cenário é alguém com um papel tático dentro de uma organizaçÃo capaz de perceber as peças que o time possui, uní-las em cima de algo valioso como um objetivo.
 
 ## Papéis e responsabilidades
 
 Um time é uma célula auto-suficiente que é composta por diversos papéis e que respeite a regra do Two Pizzas Team (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno).
 
 No cenário de Desenvolvimento de Software, os princípios que guiarão o documento são:
-* Entender e cuidar a individualidade de cada pessoa
-* Capacitar, Motivar e elevar a barra do time
+* Escutar, entender e cuidar a individualidade de cada pessoa
+* Capacitar, motivar e elevar a barra do time
 * Se perguntar constantemente se estamos sendo Lean
 * Ser um facilitador, um meio de campo, entre as diferentes forças que interagem em um time
 
 Não deveria ser atribuição do líder:
 * Ser gargalo
-  * Se a palavra final em decisões técnicas é do líder, você está sendo gargalo.
+* A palavra final em decisões técnicas
 * Participar somente das cerimônias e 1:1s
-  * Alocar horas do seu dia dedicado a tirar dúvidas gerais do time ou simplesmente uma conversa
 * Não ter filtro emocional
 
 FALTA BASTANTE BASE AQUI...ACHISMOS FEIOS
@@ -37,11 +36,11 @@ Accelerate em peso aqui
 
 ## Cerimônias e reuniões
 
-### Daily
+* Daily
 
-### Retrospectiva
+* Retrospectiva
 
-### Planning
+* Planning
 
 ### One on Ones
 
@@ -87,14 +86,13 @@ Rituais geralmente são:
 
 LINKS AQUIII LINKS AQUIII LINKS AQUIII LINKS AQUIII LINKS AQUIII 
 
-### Alinhamento de Objetivos (Goal Setting)
+### Alinhamento de Objetivos (Goal Setting e Tour of Duty)
 
 > "Uma vida com propósito é aquela em que eu entenda as razões pelas quais faço o que faço e pelas quais claramente deixo de fazer o que não faço." 
 
 > "Até algum tempo atrás, a vida era muito menos complexa e a intenção principal era sobreviver. Isto é, obter recursos para montar uma família e ter um patrimônio que se pudesse deixar de herança. Como a sociedade hoje é mais focada no indivíduo, a ideia de propósito está marcada por um conceito que já existiu e voltou com força: o da realização."
 
 *["Por que fazemos o que fazemos?" - Mario Sergio Cortella](https://www.amazon.com/Por-que-fazemos-Portuguese-ebook/dp/B01JT2I3DA/)*
-
 
 Alinhar objetivos é essencial para uma boa comunicação líder-liderado. A importância de chegar a objetivos comuns do time e pessoais é que eles deixam clara a sua relação com as pessoas do time e como (Key Results) devem ser alcançados.
 
@@ -126,13 +124,15 @@ Para o desenvolvimento pessoal, existe um framework: 70/20/10
 * 10% do tempo em um estudo formal como livros ou cursos
 
 
+PESQUISAR UM POUCO MAIS SOBRE TOUR OF DUTY
+
 ### Comemorações e Entrega
 
 > "A coisa mais incrível de vencer não é a vitória em si. É poder contar, ensinar outras pessoas sobre como você fez, por que fez, de que maneira fez, com que considerações fez e o que levou em conta. São os valores que você pratica que contam."
 
 *["Seja foda! - Caio Carneiro"](https://www.amazon.com.br/Seja-foda-Portuguese-Caio-Carneiro-ebook/dp/B079GZM3P5)*
 
-### Processos e ferramentas
+## Processos e ferramentas
 
 Manifesto agil
 
@@ -147,7 +147,22 @@ Ferramentas:
 
 https://learning.oreilly.com/library/view/the-care-and/9781492053972/ch01.html#your_mission_should_you_choose_to_accept_it
 
-### O paradoxo da Intolerância
+## Motivação do time
+
+Em rituais como 1:1 temos bastante uma visão da pessoa sobre suas motivações. No entanto, é importante enteder pessoas como um grupo.
+
+ENTENDER QUE TODOS TEMOS INTERESSE DENTRO DO GRUPO
+
+PODCAST DO NARUHODO
+
+TEORIA DE GRUPO
+
+Segurança Psicológica (fearless organization / Coragem Psicologica)- Fenômeno de Grupo. Oportunidade de enxergar no grupo que estou:
+* Expressar
+* Interagir
+* Aprender
+* Pertencer
+
 
 "Nada melhor para desmotivar uma boa pessoa é tolerar uma ruim"
 
