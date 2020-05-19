@@ -50,7 +50,7 @@ Esta é a cerimônia mais importante na construção de um relacionamento líder
 - O presente: Performance, clima e relacionamento com a equipe
 - O futuro: Tour of duty e alinhamento de expectativas
 
-Ele tem como premissa as (4 fases do aprendizado)[https://focuslife.com.br/4-fases-do-aprendizado-pnl/]
+Ele tem como premissa as [4 fases do aprendizado](https://focuslife.com.br/4-fases-do-aprendizado-pnl/)
 
 ![Fases do Aprendizado](./images/fases-do-aprendizado.png)
 
