@@ -14,6 +14,11 @@ Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e div
 
 ## Papéis e responsabilidades
 
+> “In teams which scored highly on architectural capabilities, little communication is required between delivery teams to get their work done.[...] In other words, architecture and teams are loosely coupled. To enable this, we must also ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.”
+
+*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+
+
 Um time é uma célula auto-suficiente que é composta por diversos papéis e que respeite a regra do Two Pizzas Team (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno).
 
 No cenário de Desenvolvimento de Software, os princípios que guiarão o documento são:
@@ -79,6 +84,8 @@ Rituais geralmente são:
 * O que não deveria estar fazendo e estou?
 
 #### Primeiras 1:1s com meus líderes
+Assim como os liderados, seus líderes precisam ter clareza sobre seu trabalho e você precisa ter clareza das expectativas deles
+
 * O que você espera do time no final do quarter? Quais são os critérios de sucesso (padrão de desempenho, entregas, métricas, iniciativas) que devem avaliar minha performance?
 * Qual é o seu maior medo sobre nossa temática?
 * Quais desafios da área meu time é diretamente responsável?
