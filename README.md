@@ -1,30 +1,53 @@
 # Princípios de liderança
 
-Esse markdown foi desenhado como um compilado do meu processo de desenvolvimento de liderança. Diferente de um artigo, ele é um documento evolutivo e iterativo. O objetivo é compartilhar os princípios e principais ferramentas em uma liderança técnica que possam ajudar a mais pessoas terem a experiência de liderança.
+Esse markdown foi desenhado como um compilado do meu processo de desenvolvimento de liderança. Diferente de um artigo, ele é um documento evolutivo e iterativo. O objetivo é compartilhar os princípios e ferramentas principais em uma liderança técnica que possam ajudar a mais pessoas terem a experiência de liderança.
 
 Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-playbook) e incrementada como todo apoio e Material da [a.karta](https://akarta.com.br/) e outras referências que serão mantidas como link.
 
-## Sumário
+# Sumário
 
-## Motivação
+- [Princípios de liderança](#princ-pios-de-lideran-a)
+- [Motivação](#motiva--o)
+- [Papéis e responsabilidades](#pap-is-e-responsabilidades)
+- [Lean Management](#lean-management)
+  * [Cerimônias e reuniões](#cerim-nias-e-reuni-es)
+    + [Daily](#daily)
+    + [Retrospectiva](#retrospectiva)
+    + [Planning](#planning)
+    + [One on Ones](#one-on-ones)
+      - [1:1s de futuro profissional](#1-1s-de-futuro-profissional)
+      - [1:1s de time](#1-1s-de-time)
+      - [1:1s de projeto](#1-1s-de-projeto)
+      - [1:1s sobre feedback pessoal (como lider)](#1-1s-sobre-feedback-pessoal--como-lider-)
+      - [Primeiras 1:1s com meus líderes](#primeiras-1-1s-com-meus-l-deres)
+    + [Alinhamento de Objetivos (Goal Setting e Tour of Duty)](#alinhamento-de-objetivos--goal-setting-e-tour-of-duty-)
+    + [Comemorações e Entrega](#comemora--es-e-entrega)
+- [Processos e ferramentas](#processos-e-ferramentas)
+- [Motivação do time](#motiva--o-do-time)
+- [Organização Pessoal](#organiza--o-pessoal)
+- [Links e Livros](#links-e-livros)
+
+<!-- <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> -->
+
+
+# Motivação
 
 > Kintsugi ("emenda de ouro") é uma antiga arte japonesa que consiste em reparar cerâmica quebrada com pó de ouro ou algum material com brilho, tornando-a uma peça única pois suas rachadoras beiram o impossível de se reproduzir. Como resultado, a peça restaurada se torna muito mais valiosa.
 
-Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras" que as fazem únicas. Devido elas, as história e imperfeições de cada pessoa é especial e deve ser respeitada como tal. O líder neste cenário é alguém com um papel tático dentro de uma organizaçÃo capaz de perceber as peças que o time possui, uní-las em cima de algo valioso como um objetivo.
+Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras" que as fazem únicas. As história e as imperfeições de cada pessoa são especiais e devem ser respeitadas como tal. O líder, neste cenário, é alguém com um papel tático dentro de uma organização capaz de perceber as competências (peças) que o time possui, uní-las em cima de algo valioso como um objetivo.
 
-## Papéis e responsabilidades
+# Papéis e responsabilidades
 
 > “In teams which scored highly on architectural capabilities, little communication is required between delivery teams to get their work done.[...] In other words, architecture and teams are loosely coupled. To enable this, we must also ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.”
 
 *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-
-Um time é uma célula auto-suficiente que é composta por diversos papéis e que respeite a regra do Two Pizzas Team (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno).
+Um time é uma célula auto-suficiente e com o mínimo de interfaces composta por diversos papéis e que respeite a regra do [Two Pizzas Team](https://buffer.com/resources/small-teams-why-startups-often-win-against-google-and-facebook-the-science-behind-why-smaller-teams-get-more-done/) (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno).
 
 No cenário de Desenvolvimento de Software, os princípios que guiarão o documento são:
 * Escutar, entender e cuidar a individualidade de cada pessoa
 * Capacitar, motivar e elevar a barra do time
-* Se perguntar constantemente se estamos sendo Lean
+* Se perguntar constantemente se estamos indo na direção do nosso objetivo sendo Lean
 * Ser um facilitador, um meio de campo, entre as diferentes forças que interagem em um time
 
 Não deveria ser atribuição do líder:
@@ -33,19 +56,17 @@ Não deveria ser atribuição do líder:
 * Participar somente das cerimônias e 1:1s
 * Não ter filtro emocional
 
-FALTA BASTANTE BASE AQUI...ACHISMOS FEIOS
-
-## Lean Management
+# Lean Management
 
 Accelerate em peso aqui
 
 ## Cerimônias e reuniões
 
-* Daily
+### Daily
 
-* Retrospectiva
+###  Retrospectiva
 
-* Planning
+###  Planning
 
 ### One on Ones
 
@@ -139,7 +160,7 @@ PESQUISAR UM POUCO MAIS SOBRE TOUR OF DUTY
 
 *["Seja foda! - Caio Carneiro"](https://www.amazon.com.br/Seja-foda-Portuguese-Caio-Carneiro-ebook/dp/B079GZM3P5)*
 
-## Processos e ferramentas
+# Processos e ferramentas
 
 Manifesto agil
 
@@ -154,7 +175,7 @@ Ferramentas:
 
 https://learning.oreilly.com/library/view/the-care-and/9781492053972/ch01.html#your_mission_should_you_choose_to_accept_it
 
-## Motivação do time
+# Motivação do time
 
 Em rituais como 1:1 temos bastante uma visão da pessoa sobre suas motivações. No entanto, é importante enteder pessoas como um grupo.
 
@@ -174,11 +195,11 @@ Segurança Psicológica (fearless organization / Coragem Psicologica)- Fenômeno
 "Nada melhor para desmotivar uma boa pessoa é tolerar uma ruim"
 
 
-## Organização Pessoal
+# Organização Pessoal
 
 Uso de uma só agenda porque você é um só!
 
-## Links e Livros
+# Links e Livros
 
 - Accelerate
 - Meus artigos https://medium.com/@felipecdo/o-que-software-livre-ainda-tem-para-nos-ensinar-c0f3c5c330aa
