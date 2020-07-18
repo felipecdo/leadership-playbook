@@ -30,32 +30,44 @@ Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-play
 <!-- <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> -->
 
 
-# Motivação
+# Introdução
 
 > Kintsugi ("emenda de ouro") é uma antiga arte japonesa que consiste em reparar cerâmica quebrada com pó de ouro ou algum material com brilho, tornando-a uma peça única pois suas rachadoras beiram o impossível de se reproduzir. Como resultado, a peça restaurada se torna muito mais valiosa.
 
 Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras" que as fazem únicas. As história e as imperfeições de cada pessoa são especiais e devem ser respeitadas como tal. O líder, neste cenário, é alguém com um papel tático dentro de uma organização capaz de perceber as competências (peças) que o time possui, uní-las em cima de algo valioso como um objetivo.
 
-# Papéis e responsabilidades
+# Time
 
 > “In teams which scored highly on architectural capabilities, little communication is required between delivery teams to get their work done.[...] In other words, architecture and teams are loosely coupled. To enable this, we must also ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.”
 
 *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-Um time é uma célula auto-suficiente, geralmente cross-functional e com o mínimo de interfaces composta por diversos papéis e que respeite a regra do [Two Pizzas Team](https://buffer.com/resources/small-teams-why-startups-often-win-against-google-and-facebook-the-science-behind-why-smaller-teams-get-more-done/) (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno) onde todos são responsáveis pelo resultado do produto/projeto (Accelerate) mesmo no cenário onde temos diversos papéis dentro do time e para isso precisa-se investir em dar as ferramentas necessarias para o time.
+Um time é uma célula auto-suficiente, geralmente cross-functional e com o mínimo de interfaces composta por diversos papéis e que respeite a regra do [Two Pizzas Team](https://buffer.com/resources/small-teams-why-startups-often-win-against-google-and-facebook-the-science-behind-why-smaller-teams-get-more-done/) (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno) onde todos são responsáveis pelo resultado do produto/projeto (Accelerate).
 
+# O papel e características do líder neste time
 
-No cenário de Desenvolvimento de Software, os princípios que guiarão o documento são:
-* Escutar, entender e cuidar a individualidade de cada pessoa
-* Capacitar, motivar e elevar a barra do time
-* Se perguntar constantemente se estamos indo na direção do nosso objetivo sendo Lean
+No cenário de Desenvolvimento de Software, o líder é aquele que tem a responsabilidade de:
+* Escutar, entender e cuidar da individualidade de cada pessoa
+* Encontrar aprendizado das falhas ao invés de culpados [1] 
+* Comunicar um forte senso de propósito [1] e elevar a barra do time
+* Investir no desenvolvimento do liderado, inclusive dando tempo, espaço e recurso para experimentar e aprender [1] 
 * Ser um facilitador, um meio de campo, entre as diferentes forças que interagem em um time
+* Evitar: Ser gargalo, a palavra final em decisões técnicas, participar somente em cerimônias e, principalmente, não ter filtro emocional
 
-Não deveria ser atribuição do líder:
-* Ser gargalo
-* A palavra final em decisões técnicas
-* Participar somente das cerimônias e 1:1s
-* Não ter filtro emocional
+E para isso ele pode ter algumas características como:
+* Visão[1]: Entendimento claro onde estamos e onde devemos estar em um futuro factível (2 anos? 5? Vai do contexto) 
+* Comunicação inspiracional[1]: Comunica inspirando e motivando, mesmo em cenários incertos.
+* Desafiar intelectualmente[1]: Incentiva ao time pensar sobre o problema de formas diferentes.
+* Supportive leadership[1]: Demonstra cuidado e consideração pelas pessoas e seus sentimentos
+* Reconhecimento pessoal[1]: Reconhece o cumprimento de metas e melhorias na qualidade do trabalho; elogia pessoalmente.
+
+O lider geralmente é a figura que representa a empresa para aquele time. Sendo assim, é perceptível que as pessoas gostam de ver a conexão do seu trabalho em impactos positivos para os clientes e, consequentemente, alinhando-se ao propósito da empresa. Isso torna possível uma melhoria na qualidade da entrega do Software e Performance organizacional.
+
+[1] *Retirados de Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+
+# Lean Management
+
+## Princípio do baixo acoplamento
 
 > high-performing group: We can do most of our testing without requiring an integrated environment. We can and do deploy or release our application independently of other applications/ services it depends on.
 > [...] In teams which scored highly on architectural capabilities, little communication is required between delivery teams to get their work done,
@@ -63,61 +75,53 @@ Não deveria ser atribuição do líder:
 > ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.
 > The goal is for your architecture to support the ability of teams to get their work done— from design through to deployment— without requiring high-bandwidth communication between teams.
 > use of bounded contexts and APIs as a way to decouple large domains into smaller, more loosely coupled units, and the use of test doubles and virtualization as a way to test services or components in isolation.
-Accelerate
+*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-# Lean Management
-
-> Even though working in small chunks adds some overhead, it reaps enormous rewards by allowing us to avoid work that delivers zero or negative value for our organizations.
-Accelerate
-
-> improvements in CD brought payoffs in the way that work felt. This means that investments in technology are also investments in people, and these investments will make our technology process more sustainable
-Accelerate
-
-> High-performing teams were more likely to incorporate information security into the delivery process.
-Accelerate
-
-> We found that external approvals were negatively correlated with lead time, deployment frequency, and restore time, and had no correlation with change fail rate.
-> changes should only be applied to production using a fully automated process that forms part of a deployment pipeline. That is, no changes should be able to be made to production unless they have been committed to version control, validated by the standard build and test process, and then deployed through an automated process triggered through a deployment pipeline.
-
+## Principio da alta iteração 
 
 > [product] actively and regularly seek customer feedback and incorporate this feedback into the design of their products.
 > development teams have the authority to create and change specifications as part of the development process without requiring approval.
 > Working in small batches enables short lead times and faster feedback loops.
 > One of the points of Agile development is to seek input from customers throughout the development process, including early stages.
 
-> Managers who want to avert employee burnout should concentrate ther attention and efforts on:
-> - Emphasizes emphasizes learning from failures rather than blaming 
-> - Communicating a strong sense of purpose 
-> - Investing in employee development 
-> - Asking employees what is preventing them from achieving their objectives and then fixing those things 
-> - Giving employees time, space, and resources to experiment and learn
-
-> employees see the connection between the work they do and its positive impact on customers, they identify more strongly with the company’s purpose, which leads to better software delivery and organizational performance.
 > Our key hypothesis in asking these questions was that teams implementing continuous delivery practices and taking an experimental approach to product development will build better products, and will also feel more connected to the rest of their organization. This, in turn, creates a virtuous cycle: by creating higher levels of software delivery performance, we increase the rate at which teams can validate their ideas, creating higher levels of job satisfaction and organizational performance.
-> Diversity matters. Research shows that teams with more diversity with regard to gender or underrepresented minorities are smarter (Rock and Grant 2016), achieve better team performance (Deloitte 2013), and achieve better business outcomes [...] It is also important to note that diversity is not enough. Teams and organizations must also be inclusive.
-> Being a leader doesn’t mean you have people reporting to you on an organizational chart— leadership is about inspiring and motivating those around you.
-> A good leader affects a team’s ability to deliver code, architect good systems, and apply Lean principles to how the team manages its work and develops products.
-> five characteristics of a transformational leader are: 
-> - Vision. Has a clear understanding of where the organization is going and where it should be in five years. 
-> - Inspirational communication. Communicates in a way that inspires and motivates, even in an uncertain or changing environment. 
-> - Intellectual stimulation. Challenges followers to think about problems in new ways.
-> - Supportive leadership. Demonstrates care and consideration of followers’ personal needs and feelings. 
-> - Personal recognition. Praises and acknowledges achievement of goals and improvements in work quality; personally compliments others
 
-> This makes sense, because leaders cannot achieve goals on their own. They need their teams executing the work on a suitable architecture, with good technical practices, use of Lean principles, and all the other factors that we’ve studied over the years.
+## Princípio das pequenas entregas
+
+> Even though working in small chunks adds some overhead, it reaps enormous rewards by allowing us to avoid work that delivers zero or negative value for our organizations.
+> We found that external approvals were negatively correlated with lead time, deployment frequency, and restore time, and had no correlation with change fail rate.
+> High-performing teams were more likely to incorporate information security into the delivery process.
+*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+
+## Princípio da automação
+
+> Automated unit and acceptance tests should be run against every commit to version control to give developers fast feedback on their changes. [...] Developers should be able to run all automated tests on their workstations
+> No one should be saying they are “done” with any work until all relevant automated tests have been written and are passing.
+> when teams practice CD, deployment to production is not an enormous, big-bang event— it’s something that can be done during normal business hours as a part of regular daily work.
+> they help to decrease deployment pain and team burnout.
+> improvements in CD brought payoffs in the way that work felt. This means that investments in technology are also investments in people, and these investments will make our technology process more sustainable
+> changes should only be applied to production using a fully automated process that forms part of a deployment pipeline. That is, no changes should be able to be made to production unless they have been committed to version control, validated by the standard build and test process, and then deployed through an automated process triggered through a deployment pipeline.
+*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+
+## Princípio da visibilidade 
+
 > Last but not least, managers should make performance metrics visible and take pains to align these with organizational goals, and should delegate more authority to their employees.
+*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-Accelerate em peso aqui
+## Princípio da diversidade
 
-## Cerimônias e reuniões
+> Diversity matters. Research shows that teams with more diversity with regard to gender or underrepresented minorities are smarter (Rock and Grant 2016), achieve better team performance (Deloitte 2013), and achieve better business outcomes [...] It is also important to note that diversity is not enough. Teams and organizations must also be inclusive.
+*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-### Daily
+# Cerimônias e reuniões
 
-###  Retrospectiva
+## Daily
 
-###  Planning
+##  Retrospectiva
 
-### One on Ones
+##  Planning
+
+## One on Ones
 
 Esta é a cerimônia mais importante na construção de um relacionamento líder-liderado. É aqui que acompanhamos:
 - O passado: Feedback sobre comportamentos e entregas
@@ -135,20 +139,20 @@ Rituais geralmente são:
 2. Trazer um dos tópicos abaixo, se tiver tempo.
 3. Finalizar a 1:1 com algo "O que podemos fazer para evoluirmos no que falamos hoje? Vamos chegar a uma solução em conjunto?"
 
-#### 1:1s de futuro profissional
+### 1:1s de futuro profissional
 * Como você vê o seu futuro profissional? O que você acredita que a empresa já conseguiu te ajudar neste sentido? Como a empresa consegue ajudar nas conquistas que você almeja? Como posso ajudar?
 * Você sente que está progredindo nos seus grandes objetivos aqui?
 * Seu trabalho é o que você esperava quando aceitou? Como você descreveria o ambiente de trabalho no time?
 
-#### 1:1s de time
+### 1:1s de time
 * Hoje você tem um ponto focal no time? Alguém que você admira? Com quem você tem mais dificuldade em trabalhar? Por quê?
 * Dos valores da empresa, você acredita que estamos falhando em algum?
 
-#### 1:1s de projeto
+### 1:1s de projeto
 * Como esse projeto está indo? O que podemos fazer para fazermos melhor? Algo te travando? Algo não está claro? Posso ajudar em algo
 * Dentro deste projeto, qual seria o resultado ideal? E como podemos alcançá-lo na sua opinião?
 
-#### 1:1s sobre feedback pessoal (como lider)
+### 1:1s sobre feedback pessoal (como lider)
 * Como lider, o que não estou fazendo para ajudar o seu dia-a-dia?
 * Como lider, o que estou fazendo para ajudar o seu dia-a-dia?
 * O que não deveria estar fazendo e estou?
@@ -161,9 +165,7 @@ Assim como os liderados, seus líderes precisam ter clareza sobre seu trabalho e
 * Quais desafios da área meu time é diretamente responsável?
 * Como vemos minha contribuição para esse momento do time/área/negócio?
 
-LINKS AQUIII LINKS AQUIII LINKS AQUIII LINKS AQUIII LINKS AQUIII 
-
-### Alinhamento de Objetivos (Goal Setting e Tour of Duty)
+## Alinhamento de Objetivos (Goal Setting e Tour of Duty)
 
 > "Uma vida com propósito é aquela em que eu entenda as razões pelas quais faço o que faço e pelas quais claramente deixo de fazer o que não faço." 
 
@@ -203,7 +205,7 @@ Para o desenvolvimento pessoal, existe um framework: 70/20/10
 
 PESQUISAR UM POUCO MAIS SOBRE TOUR OF DUTY
 
-### Comemorações e Entrega
+## Comemorações e Entrega
 
 > "A coisa mais incrível de vencer não é a vitória em si. É poder contar, ensinar outras pessoas sobre como você fez, por que fez, de que maneira fez, com que considerações fez e o que levou em conta. São os valores que você pratica que contam."
 
@@ -224,17 +226,11 @@ Ferramentas:
 
 https://learning.oreilly.com/library/view/the-care-and/9781492053972/ch01.html#your_mission_should_you_choose_to_accept_it
 
-> Automated unit and acceptance tests should be run against every commit to version control to give developers fast feedback on their changes. [...] Developers should be able to run all automated tests on their workstations
-> No one should be saying they are “done” with any work until all relevant automated tests have been written and are passing.
-> when teams practice CD, deployment to production is not an enormous, big-bang event— it’s something that can be done during normal business hours as a part of regular daily work.
-> they help to decrease deployment pain and team burnout.
-
-Accelarate
 
 # Motivação do time
 
 > The most important characteristic of high-performing teams is that they are never satisfied: they always strive to get better.
-Accelarate
+*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
 Em rituais como 1:1 temos bastante uma visão da pessoa sobre suas motivações. No entanto, é importante enteder pessoas como um grupo.
 
