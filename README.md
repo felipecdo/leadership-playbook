@@ -42,7 +42,8 @@ Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e div
 
 *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-Um time é uma célula auto-suficiente e com o mínimo de interfaces composta por diversos papéis e que respeite a regra do [Two Pizzas Team](https://buffer.com/resources/small-teams-why-startups-often-win-against-google-and-facebook-the-science-behind-why-smaller-teams-get-more-done/) (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno).
+Um time é uma célula auto-suficiente, geralmente cross-functional e com o mínimo de interfaces composta por diversos papéis e que respeite a regra do [Two Pizzas Team](https://buffer.com/resources/small-teams-why-startups-often-win-against-google-and-facebook-the-science-behind-why-smaller-teams-get-more-done/) (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno) onde todos são responsáveis pelo resultado do produto/projeto (Accelerate) mesmo no cenário onde temos diversos papéis dentro do time e para isso precisa-se investir em dar as ferramentas necessarias para o time.
+
 
 No cenário de Desenvolvimento de Software, os princípios que guiarão o documento são:
 * Escutar, entender e cuidar a individualidade de cada pessoa
@@ -56,7 +57,55 @@ Não deveria ser atribuição do líder:
 * Participar somente das cerimônias e 1:1s
 * Não ter filtro emocional
 
+> high-performing group: We can do most of our testing without requiring an integrated environment. We can and do deploy or release our application independently of other applications/ services it depends on.
+> [...] In teams which scored highly on architectural capabilities, little communication is required between delivery teams to get their work done,
+> [...] the architecture of the system is designed to enable teams to test, deploy, and change their systems without dependencies on other teams.
+> ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.
+> The goal is for your architecture to support the ability of teams to get their work done— from design through to deployment— without requiring high-bandwidth communication between teams.
+> use of bounded contexts and APIs as a way to decouple large domains into smaller, more loosely coupled units, and the use of test doubles and virtualization as a way to test services or components in isolation.
+Accelerate
+
 # Lean Management
+
+> Even though working in small chunks adds some overhead, it reaps enormous rewards by allowing us to avoid work that delivers zero or negative value for our organizations.
+Accelerate
+
+> improvements in CD brought payoffs in the way that work felt. This means that investments in technology are also investments in people, and these investments will make our technology process more sustainable
+Accelerate
+
+> High-performing teams were more likely to incorporate information security into the delivery process.
+Accelerate
+
+> We found that external approvals were negatively correlated with lead time, deployment frequency, and restore time, and had no correlation with change fail rate.
+> changes should only be applied to production using a fully automated process that forms part of a deployment pipeline. That is, no changes should be able to be made to production unless they have been committed to version control, validated by the standard build and test process, and then deployed through an automated process triggered through a deployment pipeline.
+
+
+> [product] actively and regularly seek customer feedback and incorporate this feedback into the design of their products.
+> development teams have the authority to create and change specifications as part of the development process without requiring approval.
+> Working in small batches enables short lead times and faster feedback loops.
+> One of the points of Agile development is to seek input from customers throughout the development process, including early stages.
+
+> Managers who want to avert employee burnout should concentrate ther attention and efforts on:
+> - Emphasizes emphasizes learning from failures rather than blaming 
+> - Communicating a strong sense of purpose 
+> - Investing in employee development 
+> - Asking employees what is preventing them from achieving their objectives and then fixing those things 
+> - Giving employees time, space, and resources to experiment and learn
+
+> employees see the connection between the work they do and its positive impact on customers, they identify more strongly with the company’s purpose, which leads to better software delivery and organizational performance.
+> Our key hypothesis in asking these questions was that teams implementing continuous delivery practices and taking an experimental approach to product development will build better products, and will also feel more connected to the rest of their organization. This, in turn, creates a virtuous cycle: by creating higher levels of software delivery performance, we increase the rate at which teams can validate their ideas, creating higher levels of job satisfaction and organizational performance.
+> Diversity matters. Research shows that teams with more diversity with regard to gender or underrepresented minorities are smarter (Rock and Grant 2016), achieve better team performance (Deloitte 2013), and achieve better business outcomes [...] It is also important to note that diversity is not enough. Teams and organizations must also be inclusive.
+> Being a leader doesn’t mean you have people reporting to you on an organizational chart— leadership is about inspiring and motivating those around you.
+> A good leader affects a team’s ability to deliver code, architect good systems, and apply Lean principles to how the team manages its work and develops products.
+> five characteristics of a transformational leader are: 
+> - Vision. Has a clear understanding of where the organization is going and where it should be in five years. 
+> - Inspirational communication. Communicates in a way that inspires and motivates, even in an uncertain or changing environment. 
+> - Intellectual stimulation. Challenges followers to think about problems in new ways.
+> - Supportive leadership. Demonstrates care and consideration of followers’ personal needs and feelings. 
+> - Personal recognition. Praises and acknowledges achievement of goals and improvements in work quality; personally compliments others
+
+> This makes sense, because leaders cannot achieve goals on their own. They need their teams executing the work on a suitable architecture, with good technical practices, use of Lean principles, and all the other factors that we’ve studied over the years.
+> Last but not least, managers should make performance metrics visible and take pains to align these with organizational goals, and should delegate more authority to their employees.
 
 Accelerate em peso aqui
 
@@ -175,7 +224,17 @@ Ferramentas:
 
 https://learning.oreilly.com/library/view/the-care-and/9781492053972/ch01.html#your_mission_should_you_choose_to_accept_it
 
+> Automated unit and acceptance tests should be run against every commit to version control to give developers fast feedback on their changes. [...] Developers should be able to run all automated tests on their workstations
+> No one should be saying they are “done” with any work until all relevant automated tests have been written and are passing.
+> when teams practice CD, deployment to production is not an enormous, big-bang event— it’s something that can be done during normal business hours as a part of regular daily work.
+> they help to decrease deployment pain and team burnout.
+
+Accelarate
+
 # Motivação do time
+
+> The most important characteristic of high-performing teams is that they are never satisfied: they always strive to get better.
+Accelarate
 
 Em rituais como 1:1 temos bastante uma visão da pessoa sobre suas motivações. No entanto, é importante enteder pessoas como um grupo.
 
