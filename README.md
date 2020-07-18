@@ -110,6 +110,8 @@ O lider geralmente é a figura que representa a empresa para aquele time. Sendo 
 > changes should only be applied to production using a fully automated process that forms part of a deployment pipeline. That is, no changes should be able to be made to production unless they have been committed to version control, validated by the standard build and test process, and then deployed through an automated process triggered through a deployment pipeline.
 *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
+Documentação faz parte de automação pois deixa o time livre para nao tirar duvidas
+
 ## Princípio da visibilidade 
 
 > Last but not least, managers should make performance metrics visible and take pains to align these with organizational goals, and should delegate more authority to their employees.
