@@ -117,24 +117,42 @@ O lider geralmente é a figura que representa a empresa para aquele time. Sendo 
 
 ## Daily
 
+**Objetivo:** 
+
+**Premissa:** 
+
+**Duração:** 
+
 ##  Retrospectiva
+
+**Objetivo:** 
+
+**Premissa:** 
+
+**Duração:** 
 
 ##  Planning
 
+**Objetivo:** 
+
+**Premissa:** 
+
+**Duração:** 
+
 ## One on Ones
 
-Esta é a cerimônia mais importante na construção de um relacionamento líder-liderado. É aqui que acompanhamos:
+**Objetivo:** Esta é a cerimônia mais importante na construção de um relacionamento líder-liderado. É aqui que acompanhamos:
 - O passado: Feedback sobre comportamentos e entregas
 - O presente: Performance, clima e relacionamento com a equipe
 - O futuro: Tour of duty e alinhamento de expectativas
 
-Ele tem como premissa as [4 fases do aprendizado](https://focuslife.com.br/4-fases-do-aprendizado-pnl/)
+Este é o momento que deve ser individualizado: o que funciona para uma pessoa pode não funcionar para outra (ou até mesmo para a mesma pessoa em um tempo diferente)
+
+**Premissa:** Ele tem como premissa as [4 fases do aprendizado](https://focuslife.com.br/4-fases-do-aprendizado-pnl/)
 
 ![Fases do Aprendizado](./images/fases-do-aprendizado.png)
 
-Lembre-se sempre que este é o momento que deve ser individualizado: o que funciona para uma pessoa pode não funcionar para outra (ou até mesmo para a mesma pessoa em um tempo diferente)
-
-Rituais geralmente são:
+**Duração:** Ela pode variar de pessoa para pessoa mas geralmente é uma reunião de 30 a 40 minutos. Onde segue-se geralmente esta estrutura:
 1. Abrir espaço para deixar o liderado trazer o tópico principal (Começar sempre com: E aí, como está sendo a semana?)
 2. Trazer um dos tópicos abaixo, se tiver tempo.
 3. Finalizar a 1:1 com algo "O que podemos fazer para evoluirmos no que falamos hoje? Vamos chegar a uma solução em conjunto?"
