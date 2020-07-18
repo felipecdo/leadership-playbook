@@ -5,23 +5,30 @@ Esse markdown foi desenhado como um compilado do meu processo de desenvolvimento
 Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-playbook) e incrementada como todo apoio e Material da [a.karta](https://akarta.com.br/) e outras referências que serão mantidas como link.
 
 # Sumário
-
 - [Princípios de liderança](#princ-pios-de-lideran-a)
-- [Motivação](#motiva--o)
-- [Papéis e responsabilidades](#pap-is-e-responsabilidades)
+- [Sumário](#sum-rio)
+- [Introdução](#introdu--o)
+- [Time](#time)
+- [O papel e características do líder neste time](#o-papel-e-caracter-sticas-do-l-der-neste-time)
 - [Lean Management](#lean-management)
-  * [Cerimônias e reuniões](#cerim-nias-e-reuni-es)
-    + [Daily](#daily)
-    + [Retrospectiva](#retrospectiva)
-    + [Planning](#planning)
-    + [One on Ones](#one-on-ones)
-      - [1:1s de futuro profissional](#1-1s-de-futuro-profissional)
-      - [1:1s de time](#1-1s-de-time)
-      - [1:1s de projeto](#1-1s-de-projeto)
-      - [1:1s sobre feedback pessoal (como lider)](#1-1s-sobre-feedback-pessoal--como-lider-)
-      - [Primeiras 1:1s com meus líderes](#primeiras-1-1s-com-meus-l-deres)
-    + [Alinhamento de Objetivos (Goal Setting e Tour of Duty)](#alinhamento-de-objetivos--goal-setting-e-tour-of-duty-)
-    + [Comemorações e Entrega](#comemora--es-e-entrega)
+  * [Princípio do baixo acoplamento](#princ-pio-do-baixo-acoplamento)
+  * [Principio da alta iteração](#principio-da-alta-itera--o)
+  * [Princípio das pequenas entregas](#princ-pio-das-pequenas-entregas)
+  * [Princípio da automação](#princ-pio-da-automa--o)
+  * [Princípio da visibilidade](#princ-pio-da-visibilidade)
+  * [Princípio da diversidade](#princ-pio-da-diversidade)
+- [Cerimônias e reuniões](#cerim-nias-e-reuni-es)
+  * [Daily](#daily)
+  * [Retrospectiva](#retrospectiva)
+  * [Planning](#planning)
+  * [One on Ones](#one-on-ones)
+    + [1:1s de futuro profissional](#1-1s-de-futuro-profissional)
+    + [1:1s de time](#1-1s-de-time)
+    + [1:1s de projeto](#1-1s-de-projeto)
+    + [1:1s sobre feedback sobre o trabalho como lider](#1-1s-sobre-feedback-sobre-o-trabalho-como-lider)
+    + [Primeiras 1:1s com meus líderes](#primeiras-1-1s-com-meus-l-deres)
+  * [Alinhamento de Objetivos (Goal Setting e Tour of Duty)](#alinhamento-de-objetivos--goal-setting-e-tour-of-duty-)
+  * [Comemorações e Entrega](#comemora--es-e-entrega)
 - [Processos e ferramentas](#processos-e-ferramentas)
 - [Motivação do time](#motiva--o-do-time)
 - [Organização Pessoal](#organiza--o-pessoal)
@@ -170,12 +177,12 @@ Este é o momento que deve ser individualizado: o que funciona para uma pessoa p
 * Como esse projeto está indo? O que podemos fazer para fazermos melhor? Algo te travando? Algo não está claro? Posso ajudar em algo
 * Dentro deste projeto, qual seria o resultado ideal? E como podemos alcançá-lo na sua opinião?
 
-### 1:1s sobre feedback pessoal (como lider)
+### 1:1s sobre feedback sobre o trabalho como lider
 * Como lider, o que não estou fazendo para ajudar o seu dia-a-dia?
 * Como lider, o que estou fazendo para ajudar o seu dia-a-dia?
 * O que não deveria estar fazendo e estou?
 
-#### Primeiras 1:1s com meus líderes
+### Primeiras 1:1s com meus líderes
 Assim como os liderados, seus líderes precisam ter clareza sobre seu trabalho e você precisa ter clareza das expectativas deles
 
 * O que você espera do time no final do quarter? Quais são os critérios de sucesso (padrão de desempenho, entregas, métricas, iniciativas) que devem avaliar minha performance?
