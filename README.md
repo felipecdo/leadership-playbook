@@ -80,19 +80,23 @@ O lider geralmente é a figura que representa a empresa para aquele time. Sendo 
 
 > In teams which scored highly on architectural capabilities, little communication is required between delivery teams to get their work done. [Also,] the architecture of the system is designed to enable teams to test, deploy, and change their systems without dependencies on other teams.
 > [Because of that,] high-performing group [...] can do most of our testing without requiring an integrated environment. We can and do deploy or release our application independently of other applications/ services it depends on.
+
 *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
 EXPLICAÇÃO
 
 > The goal is for your architecture to support the ability of teams to get their work done— from design through to deployment— without requiring high-bandwidth communication between teams. [...] Use of bounded contexts and APIs as a way to decouple large domains into smaller, more loosely coupled units, and the use of test doubles and virtualization as a way to test services or components in isolation.
+
 *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
 Para tudo isso acontecer, reforça o desafio de ter um time com diversas habilidades nele:
 
 > Specialized roles create efficiencies within each segment while potentially creating inefficiencies across the entire life cycle.
-(Netflix Technology Blog - Full Cycle Developers at Netflix — Operate What You Build)[https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249}
+
+*(Netflix Technology Blog - Full Cycle Developers at Netflix — Operate What You Build)[https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249]*
 
 > ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.
+
 *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
 ## Principio da alta iteração 
