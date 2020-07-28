@@ -143,6 +143,9 @@ WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP
 
 **Duração:** 
 
+**Dinâmicas:** 
+* [Moving Motivators](https://management30.com/practice/moving-motivators/)
+
 ##  Planning
 
 **Objetivo:** 
