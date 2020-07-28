@@ -93,7 +93,7 @@ Para tudo isso acontecer, reforça o desafio de ter um time com diversas habilid
 
 > Specialized roles create efficiencies within each segment while potentially creating inefficiencies across the entire life cycle.
 
-*(Netflix Technology Blog - Full Cycle Developers at Netflix — Operate What You Build)[https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249]*
+*[Netflix Technology Blog - Full Cycle Developers at Netflix — Operate What You Build](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249)*
 
 > ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.
 
