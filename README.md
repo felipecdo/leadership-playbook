@@ -230,17 +230,17 @@ Idealmente trabalha-se com 2 tipos de Goals para um determinado tempo (Semestre/
 Os objetivos de time alinham somente que iremos passar de um ponto A para um ponto B.
 
 ```
-A----|-----|-----|----> B(performance)
+A ...----|-----|-----|---- > B(performance)
 ```
 
 Para uma organização continuar inovando. Esta passagem de fase muitas vezes não é suficiente. Fazer do mesmo jeito do que fazíamos ontem pode ser o primeiro passo para o fracasso. No entanto, alinhar as goals pessoais conseguem transformar a visão das pessoas, propondo e explorando novas soluções, transformando o tour de uma pessoa:
 
 ```
 
-                    /--> C,D(desenvolvimento)     ^
+                    /-- > C,D(desenvolvimento)     ^
                    /                              | proximos 
                   /                               |
-A----|-----|-----|----> B(performance)            | tours
+A----|-----|-----|---- > B(performance)            | tours
 ```
 
 Para o desenvolvimento pessoal, existe um framework: 70/20/10 
