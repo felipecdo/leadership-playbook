@@ -53,6 +53,8 @@ Um time é uma célula auto-suficiente, geralmente cross-functional e com o mín
 
 # O papel e características do líder neste time
 
+Disclaimer: Os pontos abaixos são competências propostas pelos materias e experiências. No entanto, encontrar alguém capaz de ser tudo isso sempre é meio unicórnio
+
 No cenário de Desenvolvimento de Software, o líder é aquele que tem a responsabilidade de:
 * Escutar, entender e cuidar da individualidade de cada pessoa
 * Encontrar aprendizado das falhas ao invés de culpados [1] 
@@ -130,6 +132,10 @@ Documentação faz parte de automação pois deixa o time livre para nao tirar d
 
 > Diversity matters. Research shows that teams with more diversity with regard to gender or underrepresented minorities are smarter (Rock and Grant 2016), achieve better team performance (Deloitte 2013), and achieve better business outcomes [...] It is also important to note that diversity is not enough. Teams and organizations must also be inclusive.
 *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+
+# WIP
+
+<!--
 
 # Cerimônias e reuniões
 
@@ -280,3 +286,4 @@ Uso de uma só agenda porque você é um só!
 
 - Accelerate
 - Meus artigos https://medium.com/@felipecdo/o-que-software-livre-ainda-tem-para-nos-ensinar-c0f3c5c330aa
+-->
