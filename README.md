@@ -5,8 +5,8 @@ Esse markdown foi desenhado como um compilado do meu processo de desenvolvimento
 Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-playbook) e incrementada como todo apoio e Material da [a.karta](https://akarta.com.br/) e outras referências que serão mantidas como link.
 
 # Sumário
-- [Princípios de liderança](#princ-pios-de-lideran-a)
-- [Sumário](#sum-rio)
+- [Princípios de liderança](#principios-de-lideranca)
+- [Sumário](#sumario)
 - [Introdução](#introdu--o)
 - [Time](#time)
 - [O papel e características do líder neste time](#o-papel-e-caracter-sticas-do-l-der-neste-time)
@@ -17,22 +17,6 @@ Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-play
   * [Princípio da automação](#princ-pio-da-automa--o)
   * [Princípio da visibilidade](#princ-pio-da-visibilidade)
   * [Princípio da diversidade](#princ-pio-da-diversidade)
-- [Cerimônias e reuniões](#cerim-nias-e-reuni-es)
-  * [Daily](#daily)
-  * [Retrospectiva](#retrospectiva)
-  * [Planning](#planning)
-  * [One on Ones](#one-on-ones)
-    + [1:1s de futuro profissional](#1-1s-de-futuro-profissional)
-    + [1:1s de time](#1-1s-de-time)
-    + [1:1s de projeto](#1-1s-de-projeto)
-    + [1:1s sobre feedback sobre o trabalho como lider](#1-1s-sobre-feedback-sobre-o-trabalho-como-lider)
-    + [Primeiras 1:1s com meus líderes](#primeiras-1-1s-com-meus-l-deres)
-  * [Alinhamento de Objetivos (Goal Setting e Tour of Duty)](#alinhamento-de-objetivos--goal-setting-e-tour-of-duty-)
-  * [Comemorações e Entrega](#comemora--es-e-entrega)
-- [Processos e ferramentas](#processos-e-ferramentas)
-- [Motivação do time](#motiva--o-do-time)
-- [Organização Pessoal](#organiza--o-pessoal)
-- [Links e Livros](#links-e-livros)
 
 <!-- <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> -->
 
@@ -137,9 +121,9 @@ Documentação faz parte de automação pois deixa o time livre para nao tirar d
 > Diversity matters. Research shows that teams with more diversity with regard to gender or underrepresented minorities are smarter (Rock and Grant 2016), achieve better team performance (Deloitte 2013), and achieve better business outcomes [...] It is also important to note that diversity is not enough. Teams and organizations must also be inclusive.
 *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-# WIP
-
 <!--
+WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP 
+
 
 # Cerimônias e reuniões
 
