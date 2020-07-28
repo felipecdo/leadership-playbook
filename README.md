@@ -84,6 +84,9 @@ O lider geralmente é a figura que representa a empresa para aquele time. Sendo 
 > use of bounded contexts and APIs as a way to decouple large domains into smaller, more loosely coupled units, and the use of test doubles and virtualization as a way to test services or components in isolation.
 *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
+Outros exemplos de baixo acoplamento:
+* (Netflix "Specialized roles create efficiencies within each segment while potentially creating inefficiencies across the entire life cycle.")[https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249}
+
 ## Principio da alta iteração 
 
 > [product] actively and regularly seek customer feedback and incorporate this feedback into the design of their products.
