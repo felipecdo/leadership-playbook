@@ -121,6 +121,8 @@ Documentação faz parte de automação pois deixa o time livre para nao tirar d
 > Diversity matters. Research shows that teams with more diversity with regard to gender or underrepresented minorities are smarter (Rock and Grant 2016), achieve better team performance (Deloitte 2013), and achieve better business outcomes [...] It is also important to note that diversity is not enough. Teams and organizations must also be inclusive.
 *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
+https://management30.com/energize-people/individuals-interactions/
+
 <!--
 WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP 
 
