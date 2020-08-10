@@ -193,6 +193,9 @@ Este é o momento que deve ser individualizado: o que funciona para uma pessoa p
 * O que não deveria estar fazendo e estou?
 
 ### Primeiras 1:1s com meus líderes
+
+LER https://larahogan.me/blog/first-one-on-one-questions/
+
 Assim como os liderados, seus líderes precisam ter clareza sobre seu trabalho e você precisa ter clareza das expectativas deles
 
 * O que você espera do time no final do quarter? Quais são os critérios de sucesso (padrão de desempenho, entregas, métricas, iniciativas) que devem avaliar minha performance?
