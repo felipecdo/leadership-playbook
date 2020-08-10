@@ -48,7 +48,7 @@ No cenário de Desenvolvimento de Software, o líder é aquele que tem a respons
 * Evitar: Ser gargalo, a palavra final em decisões técnicas, participar somente em cerimônias e, principalmente, não ter filtro emocional
 
 E para isso ele pode ter algumas características como:
-* Visão[1]: Entendimento claro onde estamos e onde devemos estar em um futuro factível (2 anos? 5? Vai do contexto) 
+* Visão[1]: Entendimento claro onde estamos e onde devemos estar em um futuro factível (6 meses? 5 anos? Vai do contexto) 
 * Comunicação inspiracional[1]: Comunica inspirando e motivando, mesmo em cenários incertos.
 * Desafiar intelectualmente[1]: Incentiva ao time pensar sobre o problema de formas diferentes.
 * Supportive leadership[1]: Demonstra cuidado e consideração pelas pessoas e seus sentimentos
