@@ -33,7 +33,7 @@ Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e div
 
 *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-Um time é uma célula auto-suficiente, geralmente cross-functional e com o mínimo de interfaces composta por diversos papéis e que respeite a regra do [Two Pizzas Team](https://buffer.com/resources/small-teams-why-startups-often-win-against-google-and-facebook-the-science-behind-why-smaller-teams-get-more-done/) (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno) onde todos são autônomos focados em um [problema customer facing] (https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
+Um time é uma célula auto-suficiente, geralmente cross-functional e com o mínimo de interfaces composta por diversos papéis e que respeite a regra do [Two Pizzas Team](https://buffer.com/resources/small-teams-why-startups-often-win-against-google-and-facebook-the-science-behind-why-smaller-teams-get-more-done/) (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno) onde todos são autônomos focados em um [problema customer facing](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 
 # O papel e características do líder neste time
 
