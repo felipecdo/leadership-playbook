@@ -116,7 +116,7 @@ Agora: quão grande ou quão pequena deve ser a entrega? Neste ponto, me lembra 
 
 ![](https://miro.medium.com/max/2470/0*LwLjOWMypMDphubs.png)
 
-Na prática, alterar os valores de WIP Limit e manter consistência no throughput para que eles sejam saudáveis para o time é uma fórmula que varia de time para a time mas uma boa prática a ser seguida.
+Na prática, alterar os valores de [WIP Limit e manter consistência no throughput](https://medium.com/rd-shipit/m%C3%A9tricas-em-times-%C3%A1geis-as-3-m%C3%A9tricas-fundamentais-que-voc%C3%AA-precisa-saber-e-dominar-816ffb6a53c5) para que eles sejam saudáveis para o time é uma fórmula que varia de time para a time mas uma boa prática a ser seguida.
 
 ## Princípio da automação
 
