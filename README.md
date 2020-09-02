@@ -1,6 +1,6 @@
 # Princípios de liderança
 
-Esse markdown foi desenhado como um compilado do meu processo de desenvolvimento de liderança. Diferente de um artigo, ele é um documento evolutivo e iterativo. O objetivo é compartilhar os princípios e ferramentas principais em uma liderança técnica que possam ajudar a mais pessoas terem a experiência de liderança.
+Esse markdown foi desenhado como um compilado do meu processo de desenvolvimento de liderança de pessoas. Diferente de um artigo, ele é um documento evolutivo e iterativo. O objetivo é compartilhar os princípios e ferramentas principais em uma liderança técnica que possam ajudar a mais pessoas terem a experiência de liderança.
 
 Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-playbook) e incrementada como todo apoio e Material da [a.karta](https://akarta.com.br/) e outras referências que serão mantidas como link.
 
@@ -30,74 +30,93 @@ Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e div
 # Time
 
 > “In teams which scored highly on architectural capabilities, little communication is required between delivery teams to get their work done.[...] In other words, architecture and teams are loosely coupled. To enable this, we must also ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.”
-
-*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
 Um time é uma célula auto-suficiente, geralmente cross-functional e com o mínimo de interfaces composta por diversos papéis e que respeite a regra do [Two Pizzas Team](https://buffer.com/resources/small-teams-why-startups-often-win-against-google-and-facebook-the-science-behind-why-smaller-teams-get-more-done/) (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno) onde todos são autônomos focados em um [problema customer facing](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 
 # O papel e características do líder neste time
 
-_Disclaimer: Os pontos abaixos são competências propostas pelos materias e experiências. No entanto, uma liderança lida com pessoas, o que não é uma ciência exata._
+O lider de pessoas geralmente é a figura que representa a empresa para o time. Sendo assim, é perceptível que as pessoas gostam de ver a conexão do seu trabalho em impactos positivos para os clientes e, consequentemente, alinhando-se ao propósito da empresa. Isso torna possível uma melhoria na qualidade da entrega do Software e Performance organizacional. 
 
-No cenário de Desenvolvimento de Software, o líder é aquele que tem a responsabilidade de:
-* Escutar, entender e cuidar da individualidade de cada pessoa
-* Encontrar aprendizado das falhas ao invés de culpados [1] 
-* Comunicar um forte senso de propósito [1] e elevar a barra do time
-* Investir no desenvolvimento do liderado, inclusive dando tempo, espaço e recurso para experimentar e aprender [1] 
+Apesar de variar de empresa para empresa, no cenário de Desenvolvimento de Software, o líder é aquele que tem a responsabilidade de:
+* Respeitar a individualidade de cada pessoa, praticando frequentemente escuta ativa
+* Encontrar aprendizado das falhas ao invés de culpados
+* Comunicar um forte senso de propósito e elevar a barra do time, investindo no desenvolvimento das pessoas dando tempo, espaço e recurso para experimentar e aprender
 * Ser um facilitador, um meio de campo, entre as diferentes forças que interagem em um time
-* Evitar: Ser gargalo, a palavra final em decisões técnicas, participar somente em cerimônias e, principalmente, não ter filtro emocional
 
-E para isso ele pode ter algumas características como:
-* Visão[1]: Entendimento claro onde estamos e onde devemos estar em um futuro factível (6 meses? 5 anos? Vai do contexto) 
-* Comunicação inspiracional[1]: Comunica inspirando e motivando, mesmo em cenários incertos.
-* Desafiar intelectualmente[1]: Incentiva ao time pensar sobre o problema de formas diferentes.
-* Supportive leadership[1]: Demonstra cuidado e consideração pelas pessoas e seus sentimentos
-* Reconhecimento pessoal[1]: Reconhece o cumprimento de metas e melhorias na qualidade do trabalho; elogia pessoalmente.
+E para isso, segundo o Accelerate, ele pode ter algumas características como:
+* Visão: Entendimento claro onde estamos e onde devemos estar em um futuro factível (6 meses? 5 anos? Vai do contexto) 
+* Comunicação inspiracional: Comunica inspirando e motivando, mesmo em cenários incertos.
+* Desafiar intelectualmente: Incentiva ao time pensar sobre o problema de formas diferentes.
+* Supportive leadership: Demonstra cuidado e consideração pelas pessoas e seus sentimentos
+* Reconhecimento pessoal: Reconhece o cumprimento de metas e melhorias na qualidade do trabalho; elogia pessoalmente.
 
-O lider geralmente é a figura que representa a empresa para aquele time. Sendo assim, é perceptível que as pessoas gostam de ver a conexão do seu trabalho em impactos positivos para os clientes e, consequentemente, alinhando-se ao propósito da empresa. Isso torna possível uma melhoria na qualidade da entrega do Software e Performance organizacional.
+Os pontos acima são competências propostas pelos materiais e experiências. No entanto, um trabalho super importante de uma liderança é lidar com pessoas, o que não é uma ciência exata.
 
-[1] *Retirados de Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+# Gerenciamento Lean
 
-# Lean Management
+O desenvolvimento de software é algo que evolui muito rapidamente no tempo. Garantir que o time esteja sendo o mais produtivo possível não é uma tarefa fácil no dia-a-dia onde o ambiente de incertezas e agilidade caminham juntos. Abaixo tentarei resumir alguns princípios capazes de nortear esta caminhada com base em algumas pesquisas (e muito influenciado pelo Accelerate)
 
 ## Princípio do baixo acoplamento
 
+Comunicação é uma das maiores dificuldades em times ágeis de software, sendo assim: pouca comunicação é algo que facilita a agilidade.
+
 > In teams which scored highly on architectural capabilities, little communication is required between delivery teams to get their work done. [Also,] the architecture of the system is designed to enable teams to test, deploy, and change their systems without dependencies on other teams.
 > [Because of that,] high-performing group [...] can do most of our testing without requiring an integrated environment. We can and do deploy or release our application independently of other applications/ services it depends on.
+> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+Em outras palavras, reduzir a fricção da comunicação torna o time mais produtivo. E isso tem um efeito não linear como é ilustrado nessa famosa imagem de quanto mais pessoas, menos produtivo somos devido ao esforço de alinhamento entre todos os pontos:
 
-EXPLICAÇÃO
+![Manda de produtividade. 3 pessoas geram 3 linhas de comunicação, 6 pessoas geram 15.](https://i.dell.com/sites/imagecontent/consumer/merchandizing/pt/PublishingImages/Novas-imagens-OC/Learn%20Pages/Endeavour/graficos-artigo-dell-produtividade-mandalas.png)
+> > *Retirado de [Dell & Endeavor: Eficiência para times de alto crescimento](https://www.dell.com/learn/br/pt/brbsdt1/campaigns/como-combater-os-ladroes-de-tempo)*
+
+Para isso funcionar, pela [Lei de Conway](https://en.wikipedia.org/wiki/Conway%27s_law), não só a empresa deve reduzir comunicação mas a arquitetura do sistema deve ser orientada a desacoplamentos e contextos bem delimitados (bounded countexts).
 
 > The goal is for your architecture to support the ability of teams to get their work done— from design through to deployment— without requiring high-bandwidth communication between teams. [...] Use of bounded contexts and APIs as a way to decouple large domains into smaller, more loosely coupled units, and the use of test doubles and virtualization as a way to test services or components in isolation.
+> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
-
-Para tudo isso acontecer, reforça o desafio de ter um time com diversas habilidades nele:
+E um caminho bem interssante que estou vendo no mercado é não existir mais aqueles times de "Operação", "Design", "Arquitetura", etc. No final, o time tem que ser autônomo, não é? Sendo assim, criar um time como todas estes papéis dentro do próprio time pode ser uma abordagem para incrementar a agilidade:
 
 > Specialized roles create efficiencies within each segment while potentially creating inefficiencies across the entire life cycle.
-
-*[Netflix Technology Blog - Full Cycle Developers at Netflix — Operate What You Build](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249)*
+> > *[Netflix Technology Blog - Full Cycle Developers at Netflix — Operate What You Build](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249)*
 
 > ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.
+> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+## Principio da alta iteração (para alta interação com clientes) 
 
-## Principio da alta iteração 
+Uma crítica clássica ao [modelo cascata](https://pt.wikipedia.org/wiki/Modelo_em_cascata) é justamente ele não permitir pequenos batches de entrega com o intuito de o cliente sentir progresso e conseguir ajudar no incremento do produto. Sendo assim, o segundo princípio vem com a mensagem: o time já fez entrega em produção hoje?
 
-> [product] actively and regularly seek customer feedback and incorporate this feedback into the design of their products.
-> development teams have the authority to create and change specifications as part of the development process without requiring approval.
 > Working in small batches enables short lead times and faster feedback loops.
-> One of the points of Agile development is to seek input from customers throughout the development process, including early stages.
+> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+
+A necessidade disso é simples: quanto mais iteração, mais fácil a validação (ou não) de um usuário final e mais claro o sentimento de dever cumprido dentro do time:
+
+> [Product] actively and regularly seek customer feedback and incorporate this feedback into the design of their products. [...] 
 
 > Our key hypothesis in asking these questions was that teams implementing continuous delivery practices and taking an experimental approach to product development will build better products, and will also feel more connected to the rest of their organization. This, in turn, creates a virtuous cycle: by creating higher levels of software delivery performance, we increase the rate at which teams can validate their ideas, creating higher levels of job satisfaction and organizational performance.
+> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+
+Ao final, é importante entender que durante o processo de desenvolvimento de software, limitaçes técnicas podem surgir e ninguém melhor que o time técnico para encontrar soluções, sendo eles parte muito importante da entrega de valor para o cliente final.
+
+> One of the points of Agile development is to seek input from customers throughout the development process, including early stages.
+
+> Development teams have the authority to create and change specifications as part of the development process without requiring approval.
+> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
 ## Princípio das pequenas entregas
 
+Codificar é algo simples. Transformar código em solução é algo mais complexo. Em geral, o dia-a-dia do desenvolvimento é lidar com variáveis complexas e abstratas. Sendo assim, reduzir a chance do erro através de pequenas e constantes melhorias fazem com que a busca pela solução fique mais próxima da ideal.
+
 > Even though working in small chunks adds some overhead, it reaps enormous rewards by allowing us to avoid work that delivers zero or negative value for our organizations.
 > We found that external approvals were negatively correlated with lead time, deployment frequency, and restore time, and had no correlation with change fail rate.
-> High-performing teams were more likely to incorporate information security into the delivery process.
-*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+
+Agora: quão grande ou quão pequena deve ser a entrega? Neste ponto, me lembra muito o Algoritmo de [gradiente descendente](http://cursos.leg.ufpr.br/ML4all/apoio/Gradiente.html#gradiente_descendente_(gd)) muito utilizado em Redes Neurais. Se você usa um valor muito alto, você vai se "esforçar" muito para ficar navegando na função e dificilmente encontrará a mínimo global (melhor solução). Por outro lado, se você usa um valor muito baixo, você precisa de muitas iterações para finalmente encontrar a melhor solução, podendo ficar presos em mínimos locais. Ao final, como quase tudo em software, testar variando os valores e iterar é uma boa opção. 
+
+![](https://miro.medium.com/max/2470/0*LwLjOWMypMDphubs.png)
+
+Na prática, alterar os valores de WIP Limit e manter consistência no throughput para que eles sejam saudáveis para o time é uma fórmula que varia de time para a time mas uma boa prática a ser seguida.
 
 ## Princípio da automação
 
