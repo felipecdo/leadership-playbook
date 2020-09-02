@@ -83,7 +83,7 @@ E um caminho bem interssante que estou vendo no mercado é não existir mais aqu
 > ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.
 > > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-## Principio da alta iteração (para alta interação com clientes) 
+## Principio da alta iteração (para mais interação com clientes) 
 
 Uma crítica clássica ao [modelo cascata](https://pt.wikipedia.org/wiki/Modelo_em_cascata) é justamente ele não permitir pequenos batches de entrega com o intuito de o cliente sentir progresso e conseguir ajudar no incremento do produto. Sendo assim, o segundo princípio vem com a mensagem: o time já fez entrega em produção hoje?
 
