@@ -37,7 +37,7 @@ Um time é uma célula auto-suficiente, geralmente cross-functional e com o mín
 
 # O papel e características do líder neste time
 
-Disclaimer: Os pontos abaixos são competências propostas pelos materias e experiências. No entanto, encontrar alguém capaz de ser tudo isso sempre é meio unicórnio
+_Disclaimer: Os pontos abaixos são competências propostas pelos materias e experiências. No entanto, uma liderança lida com pessoas, o que não é uma ciência exata._
 
 No cenário de Desenvolvimento de Software, o líder é aquele que tem a responsabilidade de:
 * Escutar, entender e cuidar da individualidade de cada pessoa
