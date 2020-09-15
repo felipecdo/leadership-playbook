@@ -83,7 +83,7 @@ E um caminho bem interssante que estou vendo no mercado é não existir mais aqu
 > ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.
 > > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-## Principio da alta iteração (para mais interação com clientes) 
+## Principio da alta iteração e pequenas entregas (para mais interação com clientes) 
 
 Uma crítica clássica ao [modelo cascata](https://pt.wikipedia.org/wiki/Modelo_em_cascata) é justamente ele não permitir pequenos batches de entrega com o intuito de o cliente sentir progresso e conseguir ajudar no incremento do produto. Sendo assim, o segundo princípio vem com a mensagem: o time já fez entrega em produção hoje?
 
@@ -97,26 +97,20 @@ A necessidade disso é simples: quanto mais iteração, mais fácil a validaçã
 > Our key hypothesis in asking these questions was that teams implementing continuous delivery practices and taking an experimental approach to product development will build better products, and will also feel more connected to the rest of their organization. This, in turn, creates a virtuous cycle: by creating higher levels of software delivery performance, we increase the rate at which teams can validate their ideas, creating higher levels of job satisfaction and organizational performance.
 > > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-Ao final, é importante entender que durante o processo de desenvolvimento de software, limitaçes técnicas podem surgir e ninguém melhor que o time técnico para encontrar soluções, sendo eles parte muito importante da entrega de valor para o cliente final.
-
-> One of the points of Agile development is to seek input from customers throughout the development process, including early stages.
-
-> Development teams have the authority to create and change specifications as part of the development process without requiring approval.
-> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
-
-## Princípio das pequenas entregas
-
-Codificar é algo simples. Transformar código em solução é algo mais complexo. Em geral, o dia-a-dia do desenvolvimento é lidar com variáveis complexas e abstratas. Sendo assim, reduzir a chance do erro através de pequenas e constantes melhorias fazem com que a busca pela solução fique mais próxima da ideal.
+Além do aspecto de iteração, tem uma questão técnica também: Em geral, o dia-a-dia do desenvolvimento é lidar com variáveis complexas e abstratas. Sendo assim, reduzir a chance do erro através de pequenas e constantes melhorias fazem com que a busca pela solução fique mais próxima da ideal.
 
 > Even though working in small chunks adds some overhead, it reaps enormous rewards by allowing us to avoid work that delivers zero or negative value for our organizations.
 > We found that external approvals were negatively correlated with lead time, deployment frequency, and restore time, and had no correlation with change fail rate.
 > > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-Agora: quão grande ou quão pequena deve ser a entrega? Neste ponto, me lembra muito o Algoritmo de [gradiente descendente](http://cursos.leg.ufpr.br/ML4all/apoio/Gradiente.html#gradiente_descendente_(gd)) muito utilizado em Redes Neurais. Se você usa um valor muito alto, você vai se "esforçar" muito para ficar navegando na função e dificilmente encontrará a mínimo global (melhor solução). Por outro lado, se você usa um valor muito baixo, você precisa de muitas iterações para finalmente encontrar a melhor solução, podendo ficar presos em mínimos locais. Ao final, como quase tudo em software, testar variando os valores e iterar é uma boa opção. 
+Agora: quão grande ou quão pequena deve ser a entrega? Na prática, alterar os valores de [WIP Limit e manter consistência no throughput](https://medium.com/rd-shipit/m%C3%A9tricas-em-times-%C3%A1geis-as-3-m%C3%A9tricas-fundamentais-que-voc%C3%AA-precisa-saber-e-dominar-816ffb6a53c5) para que eles sejam saudáveis para o time é uma fórmula que varia de time para a time mas uma boa prática a ser seguida.
 
-![](https://miro.medium.com/max/2470/0*LwLjOWMypMDphubs.png)
+Ao final, é importante entender que durante o processo de desenvolvimento de software, limitações técnicas podem surgir e ninguém melhor que o time técnico para encontrar soluções, sendo eles parte muito importante da entrega de valor para o cliente final.
 
-Na prática, alterar os valores de [WIP Limit e manter consistência no throughput](https://medium.com/rd-shipit/m%C3%A9tricas-em-times-%C3%A1geis-as-3-m%C3%A9tricas-fundamentais-que-voc%C3%AA-precisa-saber-e-dominar-816ffb6a53c5) para que eles sejam saudáveis para o time é uma fórmula que varia de time para a time mas uma boa prática a ser seguida.
+> One of the points of Agile development is to seek input from customers throughout the development process, including early stages.
+
+> Development teams have the authority to create and change specifications as part of the development process without requiring approval.
+> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
 ## Princípio da automação
 
