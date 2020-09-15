@@ -20,13 +20,6 @@ Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-play
 
 <!-- <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> -->
 
-
-# Introdução
-
-> Kintsugi ("emenda de ouro") é uma antiga arte japonesa que consiste em reparar cerâmica quebrada com pó de ouro ou algum material com brilho, tornando-a uma peça única pois suas rachadoras beiram o impossível de se reproduzir. Como resultado, a peça restaurada se torna muito mais valiosa.
-
-Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras" que as fazem únicas. As história e as imperfeições de cada pessoa são especiais e devem ser respeitadas como tal. O líder, neste cenário, é alguém com um papel tático dentro de uma organização capaz de perceber as competências (peças) que o time possui, uní-las em cima de algo valioso como um objetivo.
-
 # Time
 
 > “In teams which scored highly on architectural capabilities, little communication is required between delivery teams to get their work done.[...] In other words, architecture and teams are loosely coupled. To enable this, we must also ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.”
@@ -113,28 +106,52 @@ Ao final, é importante entender que durante o processo de desenvolvimento de so
 > > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
 ## Princípio da automação
+ 
+Processos são comuns para garantir qualidade e segurança, como a ideia é fazer diversos deploys por dia (vide princípio da alta iteração), investir em automação e a cultura do DevOps, segundo o Accelerate ajuda a garantir o respeito a este processo com o intuito de aumento de, entre outras coisas, qualidade.
 
-> Automated unit and acceptance tests should be run against every commit to version control to give developers fast feedback on their changes. [...] Developers should be able to run all automated tests on their workstations
-> No one should be saying they are “done” with any work until all relevant automated tests have been written and are passing.
-> when teams practice CD, deployment to production is not an enormous, big-bang event— it’s something that can be done during normal business hours as a part of regular daily work.
-> they help to decrease deployment pain and team burnout.
-> improvements in CD brought payoffs in the way that work felt. This means that investments in technology are also investments in people, and these investments will make our technology process more sustainable
+> Automated unit and acceptance tests should be run against every commit to version control to give developers fast feedback on their changes. [...] Developers should be able to run all automated tests on their workstations [...and] no one should be saying they are “done” with any work until all relevant automated tests have been written and are passing.
 > changes should only be applied to production using a fully automated process that forms part of a deployment pipeline. That is, no changes should be able to be made to production unless they have been committed to version control, validated by the standard build and test process, and then deployed through an automated process triggered through a deployment pipeline.
-*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-Documentação faz parte de automação pois deixa o time livre para nao tirar duvidas
+Além de qualidade, o deploy deve ser algo simples, não um evento que gera calafrios ou necessitam ser feitos em horários extras. Isso reduz inclusive a reduzir burnout!
+
+> when teams practice CD, deployment to production is not an enormous, big-bang event— it’s something that can be done during normal business hours as a part of regular daily work. [...Also,] they help to decrease deployment pain and team burnout.
+> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+
+O objetivo é que qualquer processo ou burocracia repetitiva dentro de uma organização (como deploy, documentação, etc) possa ser visualizado como uma oportunidade de automação. Isso torna o trabalho mais sustentável e produtivo para as próprias pessoas:
+
+> Investments in technology are also investments in people, and these investments will make our technology process more sustainable
+> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
 ## Princípio da visibilidade 
 
-> Last but not least, managers should make performance metrics visible and take pains to align these with organizational goals, and should delegate more authority to their employees.
+Seu serviço está de pé? Quantos requests ele está recebendo? Qual throughput do seu time no último mês?
+
+Estas são perguntas muito comuns que managers recebem. No entanto, qualquer pessoa do time deveria ser capaz de entender e responder estas perguntas no intuito de melhorá-las.
+
+> Managers should make performance metrics visible and take pains to align these with organizational goals, and should delegate more authority to their employees.
 *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
+Este princípio ajuda o próprio time a se regular e verificar os resultados das suas alterações. 
+
+[FALTA MAIS REFERENCIA AQUI]
+
 ## Princípio da diversidade
+
+> Kintsugi ("emenda de ouro") é uma antiga arte japonesa que consiste em reparar cerâmica quebrada com pó de ouro ou algum material com brilho, tornando-a uma peça única pois suas rachadoras beiram o impossível de se reproduzir. Como resultado, a peça restaurada se torna muito mais valiosa.
+
+Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras de ouro" que as fazem únicas e acrescentam uma visão diferente dentro do time. Pessoas de senioridade, cor, sexo, etnias diferentes dentro do time significa objetivamente ter mais formas de resolver problemas e isso é lindo pois as rachaduras que uma pessoa traz a um time ou uma empresa transforma o ambiente, acrescentando novos significados e aumentando a performance da organização
 
 > Diversity matters. Research shows that teams with more diversity with regard to gender or underrepresented minorities are smarter (Rock and Grant 2016), achieve better team performance (Deloitte 2013), and achieve better business outcomes [...] It is also important to note that diversity is not enough. Teams and organizations must also be inclusive.
 *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
 https://management30.com/energize-people/individuals-interactions/
+
+E não basta somente ter no time, mas como líder, prover mecanismos onde estas pessoas possam se sentir confiantes em se expressar e crescer através das conexões dentro e fora do time:
+
+> Creating connections among followers is one of the most important tasks for leaders.
+>> [Management 3.0](https://management30.com/energize-people/individuals-interactions/)
+
 
 <!--
 WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP 
