@@ -6,7 +6,7 @@ Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-play
 
 # Sumário
 - [Princípios de liderança](#princ-pios-de-lideran-a)
-- [Sumário](#sum-rio)
+- [Sumário](#sumário)
 - [Time](#time)
 - [O papel e características do líder neste time](#o-papel-e-características-do-líder-neste-time)
 - [Gerenciamento Lean](#gerenciamento-lean)
