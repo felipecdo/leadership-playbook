@@ -129,7 +129,7 @@ Seu serviço está de pé? Quantos requests ele está recebendo? Qual throughput
 Estas são perguntas muito comuns que managers recebem. No entanto, qualquer pessoa do time deveria ser capaz de entender e responder estas perguntas no intuito de melhorá-las.
 
 > Managers should make performance metrics visible and take pains to align these with organizational goals, and should delegate more authority to their employees.
-*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+>> *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
 Este princípio ajuda o próprio time a se regular e verificar os resultados das suas alterações. 
 
