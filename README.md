@@ -54,7 +54,7 @@ Comunicação é uma das maiores dificuldades em times ágeis de software, sendo
 
 > In teams which scored highly on architectural capabilities, little communication is required between delivery teams to get their work done. [Also,] the architecture of the system is designed to enable teams to test, deploy, and change their systems without dependencies on other teams.
 > [Because of that,] high-performing group [...] can do most of our testing without requiring an integrated environment. We can and do deploy or release our application independently of other applications/ services it depends on.
-> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+>> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
 
 Em outras palavras, reduzir a fricção da comunicação torna o time mais produtivo. E isso tem um efeito não linear como é ilustrado nessa famosa imagem de quanto mais pessoas, menos produtivo somos devido ao esforço de alinhamento entre todos os pontos:
 
@@ -64,7 +64,7 @@ Em outras palavras, reduzir a fricção da comunicação torna o time mais produ
 Para isso funcionar, pela [Lei de Conway](https://en.wikipedia.org/wiki/Conway%27s_law), não só a empresa deve reduzir comunicação mas a arquitetura do sistema deve ser orientada a desacoplamentos e contextos bem delimitados (bounded countexts).
 
 > The goal is for your architecture to support the ability of teams to get their work done— from design through to deployment— without requiring high-bandwidth communication between teams. [...] Use of bounded contexts and APIs as a way to decouple large domains into smaller, more loosely coupled units, and the use of test doubles and virtualization as a way to test services or components in isolation.
-> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+>> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
 
 E um caminho bem interssante que estou vendo no mercado é não existir mais aqueles times de "Operação", "Design", "Arquitetura", etc. No final, o time tem que ser autônomo, não é? Sendo assim, criar um time como todas estes papéis dentro do próprio time pode ser uma abordagem para incrementar a agilidade:
 
@@ -72,7 +72,7 @@ E um caminho bem interssante que estou vendo no mercado é não existir mais aqu
 > > *[Netflix Technology Blog - Full Cycle Developers at Netflix — Operate What You Build](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249)*
 
 > ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.
-> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+>> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
 
 ## Princípio da alta iteração e pequenas entregas 
 **(para mais interação com clientes)** 
@@ -80,20 +80,20 @@ E um caminho bem interssante que estou vendo no mercado é não existir mais aqu
 Uma crítica clássica ao [modelo cascata](https://pt.wikipedia.org/wiki/Modelo_em_cascata) é justamente ele não permitir pequenos batches de entrega com o intuito de o cliente sentir progresso e conseguir ajudar no incremento do produto. Sendo assim, o segundo princípio vem com a mensagem: o time já fez entrega em produção hoje?
 
 > Working in small batches enables short lead times and faster feedback loops.
-> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+>> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
 
 A necessidade disso é simples: quanto mais iteração, mais fácil a validação (ou não) de um usuário final e mais claro o sentimento de dever cumprido dentro do time:
 
 > [Product] actively and regularly seek customer feedback and incorporate this feedback into the design of their products. [...] 
 
 > Our key hypothesis in asking these questions was that teams implementing continuous delivery practices and taking an experimental approach to product development will build better products, and will also feel more connected to the rest of their organization. This, in turn, creates a virtuous cycle: by creating higher levels of software delivery performance, we increase the rate at which teams can validate their ideas, creating higher levels of job satisfaction and organizational performance.
-> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+>> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
 
 Além do aspecto de iteração, tem uma questão técnica também: Em geral, o dia-a-dia do desenvolvimento é lidar com variáveis complexas e abstratas. Sendo assim, reduzir a chance do erro através de pequenas e constantes melhorias fazem com que a busca pela solução fique mais próxima da ideal.
 
 > Even though working in small chunks adds some overhead, it reaps enormous rewards by allowing us to avoid work that delivers zero or negative value for our organizations.
 > We found that external approvals were negatively correlated with lead time, deployment frequency, and restore time, and had no correlation with change fail rate.
-> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+>> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
 
 Agora: quão grande ou quão pequena deve ser a entrega? Na prática, alterar os valores de [WIP Limit e manter consistência no throughput](https://medium.com/rd-shipit/m%C3%A9tricas-em-times-%C3%A1geis-as-3-m%C3%A9tricas-fundamentais-que-voc%C3%AA-precisa-saber-e-dominar-816ffb6a53c5) para que eles sejam saudáveis para o time é uma fórmula que varia de time para a time mas uma boa prática a ser seguida.
 
@@ -102,7 +102,7 @@ Ao final, é importante entender que durante o processo de desenvolvimento de so
 > One of the points of Agile development is to seek input from customers throughout the development process, including early stages.
 
 > Development teams have the authority to create and change specifications as part of the development process without requiring approval.
-> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+>> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
 
 ## Princípio da automação
  
@@ -110,17 +110,17 @@ Processos são comuns para garantir qualidade e segurança, como a ideia é faze
 
 > Automated unit and acceptance tests should be run against every commit to version control to give developers fast feedback on their changes. [...] Developers should be able to run all automated tests on their workstations [...and] no one should be saying they are “done” with any work until all relevant automated tests have been written and are passing.
 > changes should only be applied to production using a fully automated process that forms part of a deployment pipeline. That is, no changes should be able to be made to production unless they have been committed to version control, validated by the standard build and test process, and then deployed through an automated process triggered through a deployment pipeline.
-> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+>> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
 
 Além de qualidade, o deploy deve ser algo simples, não um evento que gera calafrios ou necessitam ser feitos em horários extras. Isso reduz inclusive a reduzir burnout!
 
 > when teams practice CD, deployment to production is not an enormous, big-bang event— it’s something that can be done during normal business hours as a part of regular daily work. [...Also,] they help to decrease deployment pain and team burnout.
-> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+>> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
 
 O objetivo é que qualquer processo ou burocracia repetitiva dentro de uma organização (como deploy, documentação, etc) possa ser visualizado como uma oportunidade de automação. Isso torna o trabalho mais sustentável e produtivo para as próprias pessoas:
 
 > Investments in technology are also investments in people, and these investments will make our technology process more sustainable
-> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+>> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
 
 ## Princípio da visibilidade 
 
@@ -129,7 +129,7 @@ Seu serviço está de pé? Quantos requests ele está recebendo? Qual throughput
 Estas são perguntas muito comuns que managers recebem. No entanto, qualquer pessoa do time deveria ser capaz de entender e responder estas perguntas no intuito de melhorá-las.
 
 > Managers should make performance metrics visible and take pains to align these with organizational goals, and should delegate more authority to their employees.
->> *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+>> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
 
 Este princípio ajuda o próprio time a se regular e verificar os resultados das suas alterações. 
 
@@ -143,7 +143,7 @@ Este princípio ajuda o próprio time a se regular e verificar os resultados das
 Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras de ouro" que as fazem únicas e acrescentam uma visão diferente dentro do time. Pessoas de senioridade, cor, sexo, etnias diferentes dentro do time significa objetivamente ter mais formas de resolver problemas e isso é lindo pois as rachaduras que uma pessoa traz a um time ou uma empresa transforma o ambiente, acrescentando novos significados e aumentando a performance da organização
 
 > Diversity matters. Research shows that teams with more diversity with regard to gender or underrepresented minorities are smarter (Rock and Grant 2016), achieve better team performance (Deloitte 2013), and achieve better business outcomes [...] It is also important to note that diversity is not enough. Teams and organizations must also be inclusive.
->> *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+>> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
 
 E não basta somente ter no time, mas como líder, prover mecanismos onde estas pessoas possam se sentir confiantes em se expressar e crescer através das conexões dentro e fora do time:
 
