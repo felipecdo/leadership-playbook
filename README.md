@@ -138,6 +138,7 @@ Este princípio ajuda o próprio time a se regular e verificar os resultados das
 ## Princípio da diversidade
 
 > Kintsugi ("emenda de ouro") é uma antiga arte japonesa que consiste em reparar cerâmica quebrada com pó de ouro ou algum material com brilho, tornando-a uma peça única pois suas rachadoras beiram o impossível de se reproduzir. Como resultado, a peça restaurada se torna muito mais valiosa.
+>> [Kintsugi (Wikipedia)](https://en.wikipedia.org/wiki/Kintsugi)
 
 Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras de ouro" que as fazem únicas e acrescentam uma visão diferente dentro do time. Pessoas de senioridade, cor, sexo, etnias diferentes dentro do time significa objetivamente ter mais formas de resolver problemas e isso é lindo pois as rachaduras que uma pessoa traz a um time ou uma empresa transforma o ambiente, acrescentando novos significados e aumentando a performance da organização
 
