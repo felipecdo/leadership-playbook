@@ -20,10 +20,12 @@ Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-play
 
 # Time
 
-> “In teams which scored highly on architectural capabilities, little communication is required between delivery teams to get their work done.[...] In other words, architecture and teams are loosely coupled. To enable this, we must also ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.”
-> > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
-
 Um time é uma célula auto-suficiente, geralmente cross-functional e com o mínimo de interfaces composta por diversos papéis e que respeite a regra do [Two Pizzas Team](https://buffer.com/resources/small-teams-why-startups-often-win-against-google-and-facebook-the-science-behind-why-smaller-teams-get-more-done/) (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno) onde todos são autônomos focados em um [problema customer facing](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
+
+> “In teams which scored highly on architectural capabilities, little communication is required between delivery teams to get their work done.
+
+> Architecture and teams are loosely coupled. To enable this, we must also ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.”
+>> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
 
 # O papel e características do líder neste time
 
