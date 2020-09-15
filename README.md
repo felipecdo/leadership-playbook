@@ -147,7 +147,7 @@ Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e div
 > Diversity matters. Research shows that teams with more diversity with regard to gender or underrepresented minorities are smarter (Rock and Grant 2016), achieve better team performance (Deloitte 2013), and achieve better business outcomes [...] It is also important to note that diversity is not enough. Teams and organizations must also be inclusive.
 >> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
 
-E não basta somente ter no time, mas como líder, prover mecanismos onde estas pessoas possam se sentir confiantes em se expressar e crescer através das conexões dentro e fora do time:
+E não basta somente ter no time, mas como líder, prover mecanismos onde estas pessoas possam (1) Expressar, (2) Interagir, (3) Aprender e (4) Pertencer dentro do time e da organização
 
 > Creating connections among followers is one of the most important tasks for leaders.
 >> [Management 3.0](https://management30.com/energize-people/individuals-interactions/)
@@ -178,7 +178,7 @@ WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP
 **Dinâmicas:** 
 * [Moving Motivators](https://management30.com/practice/moving-motivators/)
 
-##  Planning
+## Planning
 
 **Objetivo:** 
 
@@ -275,18 +275,19 @@ PESQUISAR UM POUCO MAIS SOBRE TOUR OF DUTY
 
 ## Comemorações e Entrega
 
-> "A coisa mais incrível de vencer não é a vitória em si. É poder contar, ensinar outras pessoas sobre como você fez, por que fez, de que maneira fez, com que considerações fez e o que levou em conta. São os valores que você pratica que contam."
-
-*["Seja foda! - Caio Carneiro"](https://www.amazon.com.br/Seja-foda-Portuguese-Caio-Carneiro-ebook/dp/B079GZM3P5)*
-
-# Motivação do time
-
 > "Rotina não é monotonia, [...] a rotina consiste em uma série de procedimentos-padrão com os quais um processo completa. E esse nível de repetibilidade é o que torna a rotina mais adequada. [...] A monotonia é a morte da motivação. As pessoas [...] tentam alterar a situação quando veem o risco de monotonia”
 
 *["Por que fazemos o que fazemos?" - Mario Sergio Cortella](https://www.amazon.com/Por-que-fazemos-Portuguese-ebook/dp/B01JT2I3DA/)*
 
 > The most important characteristic of high-performing teams is that they are never satisfied: they always strive to get better.
 *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
+
+> "A coisa mais incrível de vencer não é a vitória em si. É poder contar, ensinar outras pessoas sobre como você fez, por que fez, de que maneira fez, com que considerações fez e o que levou em conta. São os valores que você pratica que contam."
+
+*["Seja foda! - Caio Carneiro"](https://www.amazon.com.br/Seja-foda-Portuguese-Caio-Carneiro-ebook/dp/B079GZM3P5)*
+
+# Motivação do time
+
 
 Em rituais como 1:1 temos bastante uma visão da pessoa sobre suas motivações. No entanto, é importante enteder pessoas como um grupo.
 
