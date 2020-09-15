@@ -36,11 +36,11 @@ Apesar de variar de empresa para empresa, no cenário de Desenvolvimento de Soft
 * Ser um facilitador, um meio de campo, entre as diferentes forças que interagem em um time
 
 E para isso, segundo o Accelerate, ele pode ter algumas características como:
-* Visão: Entendimento claro onde estamos e onde devemos estar em um futuro factível (6 meses? 5 anos? Vai do contexto) 
-* Comunicação inspiracional: Comunica inspirando e motivando, mesmo em cenários incertos.
-* Desafiar intelectualmente: Incentiva ao time pensar sobre o problema de formas diferentes.
-* Supportive leadership: Demonstra cuidado e consideração pelas pessoas e seus sentimentos
-* Reconhecimento pessoal: Reconhece o cumprimento de metas e melhorias na qualidade do trabalho; elogia pessoalmente.
+* **Visão**: Entendimento claro onde estamos e onde devemos estar em um futuro factível (6 meses? 5 anos? Vai do contexto) 
+* **Comunicação inspiracional**: Comunica inspirando e motivando, mesmo em cenários incertos.
+* **Desafiar intelectualmente**: Incentiva ao time pensar sobre o problema de formas diferentes.
+* **Suporte/Apoio**: Demonstra cuidado e consideração pelas pessoas e seus sentimentos
+* **Reconhecimento pessoal**: Reconhece o cumprimento de metas e melhorias na qualidade do trabalho; elogia pessoalmente.
 
 Os pontos acima são competências propostas pelos materiais e experiências. No entanto, um trabalho super importante de uma liderança é lidar com pessoas, o que não é uma ciência exata.
 
