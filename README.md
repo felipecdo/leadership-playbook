@@ -305,10 +305,6 @@ Segurança Psicológica (fearless organization / Coragem Psicologica)- Fenômeno
 
 "Nada melhor para desmotivar uma boa pessoa é tolerar uma ruim"
 
-# Organização Pessoal
-
-Uso de uma só agenda porque você é um só!
-
 # Links e Livros
 
 - Accelerate
