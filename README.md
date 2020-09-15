@@ -5,18 +5,16 @@ Esse markdown foi desenhado como um compilado do meu processo de desenvolvimento
 Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-playbook) e incrementada como todo apoio e Material da [a.karta](https://akarta.com.br/) e outras referências que serão mantidas como link.
 
 # Sumário
-- [Princípios de liderança](#principios-de-lideranca)
-- [Sumário](#sumario)
-- [Introdução](#introdu--o)
+- [Princípios de liderança](#princ-pios-de-lideran-a)
+- [Sumário](#sum-rio)
 - [Time](#time)
-- [O papel e características do líder neste time](#o-papel-e-caracter-sticas-do-l-der-neste-time)
-- [Lean Management](#lean-management)
-  * [Princípio do baixo acoplamento](#princ-pio-do-baixo-acoplamento)
-  * [Principio da alta iteração](#principio-da-alta-itera--o)
-  * [Princípio das pequenas entregas](#princ-pio-das-pequenas-entregas)
-  * [Princípio da automação](#princ-pio-da-automa--o)
-  * [Princípio da visibilidade](#princ-pio-da-visibilidade)
-  * [Princípio da diversidade](#princ-pio-da-diversidade)
+- [O papel e características do líder neste time](#o-papel-e-características-do-líder-neste-time)
+- [Gerenciamento Lean](#gerenciamento-lean)
+  * [Princípio do baixo acoplamento](#princípio-do-baixo-acoplamento)
+  * [Principio da alta iteração e pequenas entregas (para mais interação com clientes)](#princípio-da-alta-itera--o-e-pequenas-entregas--para-mais-intera--o-com-clientes-)
+  * [Princípio da automação](#princípio-da-automação)
+  * [Princípio da visibilidade](#princípio-da-visibilidade)
+  * [Princípio da diversidade](#princípio-da-diversidade)
 
 <!-- <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> -->
 
@@ -76,7 +74,7 @@ E um caminho bem interssante que estou vendo no mercado é não existir mais aqu
 > ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.
 > > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-## Principio da alta iteração e pequenas entregas (para mais interação com clientes) 
+## Princípio da alta iteração e pequenas entregas (para mais interação com clientes) 
 
 Uma crítica clássica ao [modelo cascata](https://pt.wikipedia.org/wiki/Modelo_em_cascata) é justamente ele não permitir pequenos batches de entrega com o intuito de o cliente sentir progresso e conseguir ajudar no incremento do produto. Sendo assim, o segundo princípio vem com a mensagem: o time já fez entrega em produção hoje?
 
@@ -143,9 +141,7 @@ Este princípio ajuda o próprio time a se regular e verificar os resultados das
 Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras de ouro" que as fazem únicas e acrescentam uma visão diferente dentro do time. Pessoas de senioridade, cor, sexo, etnias diferentes dentro do time significa objetivamente ter mais formas de resolver problemas e isso é lindo pois as rachaduras que uma pessoa traz a um time ou uma empresa transforma o ambiente, acrescentando novos significados e aumentando a performance da organização
 
 > Diversity matters. Research shows that teams with more diversity with regard to gender or underrepresented minorities are smarter (Rock and Grant 2016), achieve better team performance (Deloitte 2013), and achieve better business outcomes [...] It is also important to note that diversity is not enough. Teams and organizations must also be inclusive.
-*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
-
-https://management30.com/energize-people/individuals-interactions/
+>> *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
 E não basta somente ter no time, mas como líder, prover mecanismos onde estas pessoas possam se sentir confiantes em se expressar e crescer através das conexões dentro e fora do time:
 
