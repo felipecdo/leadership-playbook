@@ -11,7 +11,7 @@ Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-play
 - [O papel e características do líder neste time](#o-papel-e-características-do-líder-neste-time)
 - [Gerenciamento Lean](#gerenciamento-lean)
   * [Princípio do baixo acoplamento](#princípio-do-baixo-acoplamento)
-  * [Principio da alta iteração e pequenas entregas (para mais interação com clientes)](#princípio-da-alta-itera--o-e-pequenas-entregas--para-mais-intera--o-com-clientes-)
+  * [Principio da alta iteração e pequenas entregas](#princípio-da-alta-itera--o-e-pequenas-entregas)
   * [Princípio da automação](#princípio-da-automação)
   * [Princípio da visibilidade](#princípio-da-visibilidade)
   * [Princípio da diversidade](#princípio-da-diversidade)
@@ -74,7 +74,8 @@ E um caminho bem interssante que estou vendo no mercado é não existir mais aqu
 > ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.
 > > *Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*
 
-## Princípio da alta iteração e pequenas entregas (para mais interação com clientes) 
+## Princípio da alta iteração e pequenas entregas 
+**(para mais interação com clientes)** 
 
 Uma crítica clássica ao [modelo cascata](https://pt.wikipedia.org/wiki/Modelo_em_cascata) é justamente ele não permitir pequenos batches de entrega com o intuito de o cliente sentir progresso e conseguir ajudar no incremento do produto. Sendo assim, o segundo princípio vem com a mensagem: o time já fez entrega em produção hoje?
 
