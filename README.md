@@ -5,7 +5,7 @@ Esse markdown foi desenhado como um compilado do meu processo de desenvolvimento
 Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-playbook) e incrementada como todo apoio e Material da [a.karta](https://akarta.com.br/) e outras referências que serão mantidas como link.
 
 # Sumário
-- [Princípios de liderança](#princ-pios-de-lideran-a)
+- [Princípios de liderança](#princípios-de-liderança)
 - [Sumário](#sumário)
 - [Time](#time)
 - [O papel e características do líder neste time](#o-papel-e-características-do-líder-neste-time)
@@ -20,16 +20,20 @@ Agradeço a ideia vinda do [Kamil Sindi](https://github.com/ksindi/managers-play
 
 # Time
 
-Um time é uma célula auto-suficiente, geralmente cross-functional e com o mínimo de interfaces composta por diversos papéis e que respeite a regra do [Two Pizzas Team](https://buffer.com/resources/small-teams-why-startups-often-win-against-google-and-facebook-the-science-behind-why-smaller-teams-get-more-done/) (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno) onde todos são autônomos focados em um [problema customer facing](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
+Características:
+* Célula auto-suficiente, geralmente cross-functional e com o mínimo de interfaces 
+* Composta por diversos papéis e que respeite a regra do [Two Pizzas Team](https://buffer.com/resources/small-teams-why-startups-often-win-against-google-and-facebook-the-science-behind-why-smaller-teams-get-more-done/) (o tamanho do time no deve superar o que duas pizzas são capazes de alimentar em uma noite escura de inverno) 
+* Todos são autônomos focados em um [problema customer facing](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
+
 
 > “In teams which scored highly on architectural capabilities, little communication is required between delivery teams to get their work done.
-
-> Architecture and teams are loosely coupled. To enable this, we must also ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.”
+[...] Architecture and teams are loosely coupled. To enable this, we must also ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.”
 >> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
 
-# O papel e características do líder neste time
 
-O lider de pessoas geralmente é a figura que representa a empresa para o time. Sendo assim, é perceptível que as pessoas gostam de ver a conexão do seu trabalho em impactos positivos para os clientes e, consequentemente, alinhando-se ao propósito da empresa. Isso torna possível uma melhoria na qualidade da entrega do Software e Performance organizacional. 
+# Papel e características
+
+Premissa: As pessoas gostam de ver a conexão do seu trabalho em impactos positivos para os clientes e, consequentemente, alinhando-se ao propósito da empresa. O lider de pessoas é a figura que representa a empresa para o time. (["Pessoas pedem demissão por causa do líder, não da empresa"](https://g1.globo.com/economia/concursos-e-emprego/noticia/2019/11/22/8-em-cada-10-profissionais-pedem-demissao-por-causa-do-chefe-veja-os-motivos.ghtml))
 
 Apesar de variar de empresa para empresa, no cenário de Desenvolvimento de Software, o líder é aquele que tem a responsabilidade de:
 * Respeitar a individualidade de cada pessoa, praticando frequentemente escuta ativa
@@ -52,106 +56,114 @@ O desenvolvimento de software é algo que evolui muito rapidamente no tempo. Gar
 
 ## Princípio do baixo acoplamento
 
-Comunicação é uma das maiores dificuldades em times ágeis de software, sendo assim: pouca comunicação é algo que facilita a agilidade.
-
-> In teams which scored highly on architectural capabilities, little communication is required between delivery teams to get their work done. [Also,] the architecture of the system is designed to enable teams to test, deploy, and change their systems without dependencies on other teams.
-> [Because of that,] high-performing group [...] can do most of our testing without requiring an integrated environment. We can and do deploy or release our application independently of other applications/ services it depends on.
->> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
-
-Em outras palavras, reduzir a fricção da comunicação torna o time mais produtivo. E isso tem um efeito não linear como é ilustrado nessa famosa imagem de quanto mais pessoas, menos produtivo somos devido ao esforço de alinhamento entre todos os pontos:
+* Comunicação é uma das maiores dificuldades em times ágeis de software, sendo assim: pouca comunicação é algo que facilita a agilidade.
+* Em empresas com mais de um time, a arquitetura do software deve ser desenhado para permitir do desenho ao deploy (passando por fases como desenvolvimento, testes, etc) sem dependências de outros times.
+* Comunicação tem um aspecto não linear como é possível ilustrar na imagem abaixo:
 
 ![Manda de produtividade. 3 pessoas geram 3 linhas de comunicação, 6 pessoas geram 15.](https://i.dell.com/sites/imagecontent/consumer/merchandizing/pt/PublishingImages/Novas-imagens-OC/Learn%20Pages/Endeavour/graficos-artigo-dell-produtividade-mandalas.png)
 > > *Retirado de [Dell & Endeavor: Eficiência para times de alto crescimento](https://www.dell.com/learn/br/pt/brbsdt1/campaigns/como-combater-os-ladroes-de-tempo)*
 
-Para isso funcionar, pela [Lei de Conway](https://en.wikipedia.org/wiki/Conway%27s_law), não só a empresa deve reduzir comunicação mas a arquitetura do sistema deve ser orientada a desacoplamentos e contextos bem delimitados (bounded countexts).
+* Para isso funcionar, pela [Lei de Conway](https://en.wikipedia.org/wiki/Conway%27s_law), não só a empresa deve reduzir comunicação mas a arquitetura do sistema deve ser orientada a desacoplamento de domínios, contextos bem delimitados (bounded countexts) e testes capazes de prover isolamento de componentes.
 
-> The goal is for your architecture to support the ability of teams to get their work done— from design through to deployment— without requiring high-bandwidth communication between teams. [...] Use of bounded contexts and APIs as a way to decouple large domains into smaller, more loosely coupled units, and the use of test doubles and virtualization as a way to test services or components in isolation.
->> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
+* O que algumas empresas tem feito? Um caminho bem interssante que estou vendo no mercado é não existir mais aqueles times de "Operação", "Design", "Arquitetura", etc. No final, o time tem que ser autônomo, não é? Sendo assim, criar um time como todas estes papéis dentro do próprio time pode ser uma abordagem para incrementar a agilidade (["Specialized roles create efficiencies within each segment while potentially creating inefficiencies across the entire life cycle."](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249))
 
-E um caminho bem interssante que estou vendo no mercado é não existir mais aqueles times de "Operação", "Design", "Arquitetura", etc. No final, o time tem que ser autônomo, não é? Sendo assim, criar um time como todas estes papéis dentro do próprio time pode ser uma abordagem para incrementar a agilidade:
 
-> Specialized roles create efficiencies within each segment while potentially creating inefficiencies across the entire life cycle.
-> > *[Netflix Technology Blog - Full Cycle Developers at Netflix — Operate What You Build](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249)*
+* Destaque de Livros:
+  * [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
+    > In teams which scored highly on architectural capabilities, little communication is required between delivery teams to get their work done. 
 
-> ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.
->> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
+    > The architecture of the system is designed to enable teams to test, deploy, and change their systems without dependencies on other teams.
+    
+    > high-performing group [...] can do most of our testing without requiring an integrated environment. We can and do deploy or release our application independently of other applications/ services it depends on.
+    
+    > Use of bounded contexts and APIs as a way to decouple large domains into smaller, more loosely coupled units, and the use of test doubles and virtualization as a way to test services or components in isolation.
+
+    > ensure delivery teams are cross-functional, with all the skills necessary to design, develop, test, deploy, and operate the system on the same team.
 
 ## Princípio da alta iteração e pequenas entregas 
 **(para mais interação com clientes)** 
 
-Uma crítica clássica ao [modelo cascata](https://pt.wikipedia.org/wiki/Modelo_em_cascata) é justamente ele não permitir pequenos batches de entrega com o intuito de o cliente sentir progresso e conseguir ajudar no incremento do produto. Sendo assim, o segundo princípio vem com a mensagem: o time já fez entrega em produção hoje?
+* Provocação: o seu time já fez entrega em produção hoje?
 
-> Working in small batches enables short lead times and faster feedback loops.
->> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
+* Objetivo: Trabalhar em batches pequenos permitindo Lead Time baixo e maior iteração em feedback loops. 
 
-A necessidade disso é simples: quanto mais iteração, mais fácil a validação (ou não) de um usuário final e mais claro o sentimento de dever cumprido dentro do time:
+* Uma crítica clássica ao [modelo cascata](https://pt.wikipedia.org/wiki/Modelo_em_cascata) é justamente ele não permitir pequenos batches de entrega com o intuito de o cliente sentir progresso e conseguir ajudar no incremento do produto. 
 
-> [Product] actively and regularly seek customer feedback and incorporate this feedback into the design of their products. [...] 
+* Quando a busca por inputs de clientes é feita em (1) estágios iniciais e (2) recorrente, mais fácil a validação (ou reprovação) de um usuário final e mais claro o sentimento de dever cumprido dentro do time (valendo aqui até sugestões durante o processo de desenho e desenvolvimento)
 
-> Our key hypothesis in asking these questions was that teams implementing continuous delivery practices and taking an experimental approach to product development will build better products, and will also feel more connected to the rest of their organization. This, in turn, creates a virtuous cycle: by creating higher levels of software delivery performance, we increase the rate at which teams can validate their ideas, creating higher levels of job satisfaction and organizational performance.
->> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
+* Apesar de trabalhar em pequenos batches adicionar algum overhead, permite "errar rápido" e evita entregas com nenhum valor ou valor negativo para organizações.
 
-Além do aspecto de iteração, tem uma questão técnica também: Em geral, o dia-a-dia do desenvolvimento é lidar com variáveis complexas e abstratas. Sendo assim, reduzir a chance do erro através de pequenas e constantes melhorias fazem com que a busca pela solução fique mais próxima da ideal.
+* O dia-a-dia do desenvolvimento é lidar com variáveis complexas e abstratas. Sendo assim, reduzir a chance do erro através de pequenas e constantes melhorias fazem com que a busca pela solução fique mais próxima da ideal.
 
-> Even though working in small chunks adds some overhead, it reaps enormous rewards by allowing us to avoid work that delivers zero or negative value for our organizations.
-> We found that external approvals were negatively correlated with lead time, deployment frequency, and restore time, and had no correlation with change fail rate.
->> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
+* Agora: quão grande ou quão pequena deve ser a entrega? Na prática, alterar os valores de [WIP Limit e manter consistência no throughput](https://medium.com/rd-shipit/m%C3%A9tricas-em-times-%C3%A1geis-as-3-m%C3%A9tricas-fundamentais-que-voc%C3%AA-precisa-saber-e-dominar-816ffb6a53c5) para que eles sejam saudáveis para o time é uma fórmula que varia de time para a time mas uma boa prática a ser seguida.
 
-Agora: quão grande ou quão pequena deve ser a entrega? Na prática, alterar os valores de [WIP Limit e manter consistência no throughput](https://medium.com/rd-shipit/m%C3%A9tricas-em-times-%C3%A1geis-as-3-m%C3%A9tricas-fundamentais-que-voc%C3%AA-precisa-saber-e-dominar-816ffb6a53c5) para que eles sejam saudáveis para o time é uma fórmula que varia de time para a time mas uma boa prática a ser seguida.
+* Pessoas técnicas também podem interagir com clientes, alterar especificações ou sugerir novas prioridades: Durante o processo de desenvolvimento de software, limitações técnicas podem surgir e ninguém melhor que o time técnico para encontrar soluções, sendo eles parte muito importante da entrega de valor para o cliente final.
 
-Ao final, é importante entender que durante o processo de desenvolvimento de software, limitações técnicas podem surgir e ninguém melhor que o time técnico para encontrar soluções, sendo eles parte muito importante da entrega de valor para o cliente final.
+* Destaque de Livros:
+  * [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
+    > We found that external approvals were negatively correlated with lead time, deployment frequency, and restore time, and had no correlation with change fail rate.
 
-> One of the points of Agile development is to seek input from customers throughout the development process, including early stages.
-
-> Development teams have the authority to create and change specifications as part of the development process without requiring approval.
->> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
+    > [Product] actively and regularly seek customer feedback and incorporate this feedback into the design of their products. [...] Our key hypothesis in asking these questions was that teams implementing continuous delivery practices and taking an experimental approach to product development will build better products, and will also feel more connected to the rest of their organization. This, in turn, creates a virtuous cycle: by creating higher levels of software delivery performance, we increase the rate at which teams can validate their ideas, creating higher levels of job satisfaction and organizational performance.
+    
+    > Even though working in small chunks adds some overhead, it reaps enormous rewards by allowing us to avoid work that delivers zero or negative value for our organizations.
+    
+    > Development teams have the authority to create and change specifications as part of the development process without requiring approval.
 
 ## Princípio da automação
  
-Processos são comuns para garantir qualidade e segurança, como a ideia é fazer diversos deploys por dia (vide princípio da alta iteração), investir em automação e a cultura do DevOps, segundo o Accelerate ajuda a garantir o respeito a este processo com o intuito de aumento de, entre outras coisas, qualidade.
+* Investimento em automação e cultura de DevOps _ao invés de_ processos burocráticos, aprovação e documentos.
 
-> Automated unit and acceptance tests should be run against every commit to version control to give developers fast feedback on their changes. [...] Developers should be able to run all automated tests on their workstations [...and] no one should be saying they are “done” with any work until all relevant automated tests have been written and are passing.
-> changes should only be applied to production using a fully automated process that forms part of a deployment pipeline. That is, no changes should be able to be made to production unless they have been committed to version control, validated by the standard build and test process, and then deployed through an automated process triggered through a deployment pipeline.
->> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
+* Testes devem rodar contra todo commit em um CI
 
-Além de qualidade, o deploy deve ser algo simples, não um evento que gera calafrios ou necessitam ser feitos em horários extras. Isso reduz inclusive a reduzir burnout!
+* Todos os testes podem ser rodados na máquina local
 
-> when teams practice CD, deployment to production is not an enormous, big-bang event— it’s something that can be done during normal business hours as a part of regular daily work. [...Also,] they help to decrease deployment pain and team burnout.
->> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
+* Alterações em produção devem ser feitas por processo totalmente autoamtizados (passando por todo o processo de qualidade como testes de forma automatizada)
 
-O objetivo é que qualquer processo ou burocracia repetitiva dentro de uma organização (como deploy, documentação, etc) possa ser visualizado como uma oportunidade de automação. Isso torna o trabalho mais sustentável e produtivo para as próprias pessoas:
+* Além de qualidade, o deploy deve ser algo simples, não um evento que gera calafrios ou necessitam ser feitos em horários extras. Isso reduz inclusive o burnout do time!
 
-> Investments in technology are also investments in people, and these investments will make our technology process more sustainable
->> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
+* O objetivo é que qualquer processo ou burocracia repetitiva dentro de uma organização (como deploy, documentação, etc) possa ser visualizado como uma oportunidade de automação. Isso torna o trabalho mais sustentável e produtivo para as próprias pessoas
+
+* Destaque de Livros:
+  * [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
+
+    > Automated unit and acceptance tests should be run against every commit to version control to give developers fast feedback on their changes. [...] Developers should be able to run all automated tests on their workstations [...and] no one should be saying they are “done” with any work until all relevant automated tests have been written and are passing.
+    
+    > changes should only be applied to production using a fully automated process that forms part of a deployment pipeline. That is, no changes should be able to be made to production unless they have been committed to version control, validated by the standard build and test process, and then deployed through an automated process triggered through a deployment pipeline.
+
+    > when teams practice CD, deployment to production is not an enormous, big-bang event— it’s something that can be done during normal business hours as a part of regular daily work. [...Also,] they help to decrease deployment pain and team burnout.
+
+    > Investments in technology are also investments in people, and these investments will make our technology process more sustainable
 
 ## Princípio da visibilidade 
 
-Seu serviço está de pé? Quantos requests ele está recebendo? Qual throughput do seu time no último mês?
+* Provocação: Seu serviço está de pé? Quantos requests ele está recebendo? Qual throughput do seu time no último mês? Estas são perguntas muito comuns que managers recebem. 
 
-Estas são perguntas muito comuns que managers recebem. No entanto, qualquer pessoa do time deveria ser capaz de entender e responder estas perguntas no intuito de melhorá-las.
+* Qualquer pessoa do time deveria ser capaz de entender e responder o estado e qualidade do serviço do seu time.
 
-> Managers should make performance metrics visible and take pains to align these with organizational goals, and should delegate more authority to their employees.
->> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
+* Este princípio ajuda o próprio time a se regular e verificar os resultados das suas alterações. 
 
-Este princípio ajuda o próprio time a se regular e verificar os resultados das suas alterações. 
+* Destaque de Livros:
+  * [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
 
-[FALTA MAIS REFERENCIA AQUI]
+    > Managers should make performance metrics visible and take pains to align these with organizational goals, and should delegate more authority to their employees.
 
 ## Princípio da diversidade
 
 > Kintsugi ("emenda de ouro") é uma antiga arte japonesa que consiste em reparar cerâmica quebrada com pó de ouro ou algum material com brilho, tornando-a uma peça única pois suas rachadoras beiram o impossível de se reproduzir. Como resultado, a peça restaurada se torna muito mais valiosa.
 >> [Kintsugi (Wikipedia)](https://en.wikipedia.org/wiki/Kintsugi)
 
-Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras de ouro" que as fazem únicas e acrescentam uma visão diferente dentro do time. Pessoas de senioridade, cor, sexo, etnias diferentes dentro do time significa objetivamente ter mais formas de resolver problemas e isso é lindo pois as rachaduras que uma pessoa traz a um time ou uma empresa transforma o ambiente, acrescentando novos significados e aumentando a performance da organização
+* Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras de ouro" que as fazem únicas e acrescentam uma visão diferente dentro do time. 
 
-> Diversity matters. Research shows that teams with more diversity with regard to gender or underrepresented minorities are smarter (Rock and Grant 2016), achieve better team performance (Deloitte 2013), and achieve better business outcomes [...] It is also important to note that diversity is not enough. Teams and organizations must also be inclusive.
->> [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
+* Pessoas de senioridade, cor, sexo, etnias diferentes dentro do time significa objetivamente ter mais formas de resolver problemas 
 
-E não basta somente ter no time, mas como líder, prover mecanismos onde estas pessoas possam (1) Expressar, (2) Interagir, (3) Aprender e (4) Pertencer dentro do time e da organização
+* Não basta somente ter diversidade no time mas, como líder, prover mecanismos onde estas pessoas possam (1) Expressar, (2) Interagir, (3) Aprender e (4) Pertencer dentro do time e da organização (["Creating connections among followers is one of the most important tasks for leaders"](https://management30.com/energize-people/individuals-interactions/))
 
-> Creating connections among followers is one of the most important tasks for leaders.
->> [Management 3.0](https://management30.com/energize-people/individuals-interactions/)
+* Empresas e times são subconjuntos de uma sociedade. A realidade brasileira é diversa e desigual. O líder portanto deve provocar ativamente um ambiente de trabalho que represente a diversidade da sociedade (diferenças físicas,culturais, tradições, religião, costumes, a política, etc) com o intuito de promover a [equidade](https://duvidas.dicio.com.br/equidade-ou-igualdade/).
 
+* Destaque de Livros:
+  * [*Jez Humble; Nicole Forsgren; Gene Kim - Accelerate*](https://www.amazon.com.br/-/pt/dp/B07B9F83WM/)
+
+    > Diversity matters. Research shows that teams with more diversity with regard to gender or underrepresented minorities are smarter (Rock and Grant 2016), achieve better team performance (Deloitte 2013), and achieve better business outcomes [...] It is also important to note that diversity is not enough. Teams and organizations must also be inclusive.
 
 <!--
 WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP 
