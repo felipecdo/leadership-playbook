@@ -1,4 +1,4 @@
-# Playbook de Liderança
+# Princípios de Liderança
 
 Esse markdown foi desenhado como um compilado do meu processo de desenvolvimento de liderança de pessoas. Diferente de um artigo, ele é um documento evolutivo e iterativo. O objetivo é compartilhar os princípios e ferramentas principais em uma liderança técnica que possam ajudar a mais pessoas terem a experiência de liderança.
 
@@ -244,6 +244,26 @@ Assim como os liderados, seus líderes precisam ter clareza sobre seu trabalho e
 * Qual é o seu maior medo sobre nossa temática?
 * Quais desafios da área meu time é diretamente responsável?
 * Como vemos minha contribuição para esse momento do time/área/negócio?
+
+## Stay Interviews
+
+**Objetivo:** Habilitar uma conversa sincera de como a pessoa está se sentindo em relação à empresa e a seus objetivos ali dentro. Idealmente, uma stay interview é feita pelo seu líder pois a ideia é ser uma conversa super sincera. No entanto, este espaço é uma oportunidade de crescimento do líder e o modelo pode ser usado recorrentemente para ajustes e melhorias contínuas. Tenha em mão o código de cultura da empresa.
+
+**Duração:** De 20 a 1 hora. Assim como uma 1:1, quem manda é o liderado e o entrevistador deve ser
+
+**Perguntas:**[(1)[https://builtin.com/recruiting/stay-interview]]
+1) O que faz você levantar e trabalhar todo dia?
+2) O que te causa apreensão ou medo no seu dia-a-dia de trabalho?
+3) O que você acha do jeito que pessoas são reconhecidos aqui?
+4) Como você avalia relação vida pessoal e trabalho? Como ela poderia ser melhorada?
+5) O que você curte sobre as oportunidades de desenvolvimento profissionais aqui? E o que você não curte?
+6) No ultimo ano, quando que algo te gerou ansiedade ou frustração?
+7) No ultimo ano, quando que você saiu dizendo "este foi um ótimo dia de trabalho"?
+8) Qual seria o seu trabalho dos sonhos? *Apesar de ser bem aberta, esta pergunta tem como objetivo encontrar se a pessoa está se sentindo limitada ou tem ideias de melhorias que inicialmente parecem somente sonho*
+9) O que você gostava no seu último emprego que você não tem mais aqui? 
+10) O que eu posso fazer para tornar o seu dia-a-dia melhor aqui com a gente?
+
+
 
 ## Alinhamento de Objetivos (Goal Setting e Tour of Duty)
 
