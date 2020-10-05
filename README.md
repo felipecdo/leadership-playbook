@@ -169,6 +169,9 @@ O desenvolvimento de software é algo que evolui muito rapidamente no tempo. Gar
 
 Algumas cerimônias são bem comuns no mundo de Software. Aqui traremos algumas dicas
 
+<!--
+WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP 
+
 ## One on Ones
 
 **Objetivo:** Esta é a cerimônia mais importante na construção de um relacionamento líder-liderado. É aqui que acompanhamos:
@@ -222,7 +225,7 @@ Assim como os liderados, seus líderes precisam ter clareza sobre seu trabalho e
 
 **Duração:** De 20 a 1 hora. Assim como uma 1:1, quem manda é o liderado e o entrevistador deve ser
 
-**Perguntas:**[(1)[https://builtin.com/recruiting/stay-interview]]
+**Perguntas:**[[1](https://builtin.com/recruiting/stay-interview)]
 1) O que faz você levantar e trabalhar todo dia?
 2) O que te causa apreensão ou medo no seu dia-a-dia de trabalho?
 3) O que você acha do jeito que pessoas são reconhecidos aqui?
@@ -234,11 +237,9 @@ Assim como os liderados, seus líderes precisam ter clareza sobre seu trabalho e
 9) O que você gostava no seu último emprego que você não tem mais aqui? 
 10) O que eu posso fazer para tornar o seu dia-a-dia melhor aqui com a gente?
 
-<!--
-WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP 
 
 ## Feedbacks
-[(1)[https://veduca.sfo2.cdn.digitaloceanspaces.com/uploads/a15179eb372717b5d3e24064e5b41933.pdf]]
+[[1](https://veduca.sfo2.cdn.digitaloceanspaces.com/uploads/a15179eb372717b5d3e24064e5b41933.pdf)]
 
 Modelo SCI -> 
 1. (Situação) Sabe quando...
@@ -248,7 +249,6 @@ Modelo SCI ->
 5. Espero que... 
 6. Para que o impacto seja....
 
-https://veduca.sfo2.cdn.digitaloceanspaces.com/uploads/a15179eb372717b5d3e24064e5b41933.pdf
 
 ## Daily
 
