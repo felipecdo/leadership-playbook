@@ -221,21 +221,23 @@ Assim como os liderados, seus líderes precisam ter clareza sobre seu trabalho e
 
 ## Stay Interviews
 
-**Objetivo:** Habilitar uma conversa sincera de como a pessoa está se sentindo em relação à empresa e a seus objetivos ali dentro. Idealmente, uma stay interview é feita pelo seu líder pois a ideia é ser uma conversa super sincera. No entanto, este espaço é uma oportunidade de crescimento do líder e o modelo pode ser usado recorrentemente para ajustes e melhorias contínuas. Tenha em mão o código de cultura da empresa.
+**Objetivo:** Habilitar uma conversa sincera de como a pessoa está se sentindo em relação à empresa e a seus objetivos ali dentro. Para isso acontecer, é necessário o entrevistador não tentar interromper ou se justificar, apenas perguntando e explicando a pergunta. Idealmente, uma stay interview é feita pelo seu líder pois a ideia é ser uma conversa super sincera.
 
-**Duração:** De 20 a 1 hora. Assim como uma 1:1, quem manda é o liderado e o entrevistador deve ser
+Ao final, (1) agradecer por ter compartilhado e ser franco, (2) levantar os principais pontos anotados e (3) fazer um plano em conjunto levando em consideração o código de cultura da empresa.
 
-**Perguntas:**[[1](https://builtin.com/recruiting/stay-interview)]
-1) O que faz você levantar e trabalhar todo dia?
-2) O que te causa apreensão ou medo no seu dia-a-dia de trabalho?
-3) O que você acha do jeito que pessoas são reconhecidos aqui?
-4) Como você avalia relação vida pessoal e trabalho? Como ela poderia ser melhorada?
-5) O que você curte sobre as oportunidades de desenvolvimento profissionais aqui? E o que você não curte?
-6) No ultimo ano, quando que algo te gerou ansiedade ou frustração?
-7) No ultimo ano, quando que você saiu dizendo "este foi um ótimo dia de trabalho"?
-8) Qual seria o seu trabalho dos sonhos? *Apesar de ser bem aberta, esta pergunta tem como objetivo encontrar se a pessoa está se sentindo limitada ou tem ideias de melhorias que inicialmente parecem somente sonho*
-9) O que você gostava no seu último emprego que você não tem mais aqui? 
-10) O que eu posso fazer para tornar o seu dia-a-dia melhor aqui com a gente?
+**Duração:** De 20 a 1 hora. Assim como uma 1:1, quem manda é o liderado e o entrevistador deve ser. 
+
+**Perguntas:**[[1](https://builtin.com/recruiting/stay-interview)] [[2](https://www.insperity.com/blog/stay-interview-questions/)]
+1) (Motivação) O que você busca quando vem trabalhar todo dia?
+2) (Sentimentos) No ultimo ano, quando que você saiu dizendo "este foi um ótimo dia de trabalho"?
+3) (Sentimentos) No ultimo ano, quando que algo te gerou ansiedade ou frustração? / O que te causa apreensão ou medo no seu dia-a-dia de trabalho?
+4) (Sentimentos) Como você avalia relação vida pessoal e trabalho? Como ela poderia ser melhorada?
+5) (Desenvolvimento) O que você curte sobre as oportunidades de desenvolvimento profissionais aqui? E o que pode ser melhorado?
+6) (Desenvolvimento) Quais de seus talentos não estão sendo usados no seu trabalho atualmente?
+7) (Desenvolvimento) O que você gostava no seu último emprego/cargo que você não tem mais aqui? 
+8) (Desenvolvimento) Se você pudesse mudar uma coisa sobre o dia-a-dia, time ou empresa. O que seria?
+9) (Liderança) Que tipo de feedback ou reconhecimento você gostaria sobre sua performance que você no está recebendo?
+10) (Liderança) O que eu posso fazer para tornar o seu dia-a-dia melhor aqui com a gente?
 
 
 ## Feedbacks
