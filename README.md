@@ -165,38 +165,9 @@ O desenvolvimento de software é algo que evolui muito rapidamente no tempo. Gar
 
     > Diversity matters. Research shows that teams with more diversity with regard to gender or underrepresented minorities are smarter (Rock and Grant 2016), achieve better team performance (Deloitte 2013), and achieve better business outcomes [...] It is also important to note that diversity is not enough. Teams and organizations must also be inclusive.
 
-<!--
-WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP 
-
-
 # Cerimônias e reuniões
 
-## Daily
-
-**Objetivo:** 
-
-**Premissa:** 
-
-**Duração:** 
-
-##  Retrospectiva
-
-**Objetivo:** 
-
-**Premissa:** 
-
-**Duração:** 
-
-**Dinâmicas:** 
-* [Moving Motivators](https://management30.com/practice/moving-motivators/)
-
-## Planning
-
-**Objetivo:** 
-
-**Premissa:** 
-
-**Duração:** 
+Algumas cerimônias são bem comuns no mundo de Software. Aqui traremos algumas dicas
 
 ## One on Ones
 
@@ -262,6 +233,49 @@ Assim como os liderados, seus líderes precisam ter clareza sobre seu trabalho e
 8) Qual seria o seu trabalho dos sonhos? *Apesar de ser bem aberta, esta pergunta tem como objetivo encontrar se a pessoa está se sentindo limitada ou tem ideias de melhorias que inicialmente parecem somente sonho*
 9) O que você gostava no seu último emprego que você não tem mais aqui? 
 10) O que eu posso fazer para tornar o seu dia-a-dia melhor aqui com a gente?
+
+<!--
+WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP 
+
+## Feedbacks
+[(1)[https://veduca.sfo2.cdn.digitaloceanspaces.com/uploads/a15179eb372717b5d3e24064e5b41933.pdf]]
+
+Modelo SCI -> 
+1. (Situação) Sabe quando...
+2. (Comportamento) Percebi que o comportamento foi...
+3. (Impacto) Naquele momento, me gerou...
+4. Quando acontecer algo parecido, 
+5. Espero que... 
+6. Para que o impacto seja....
+
+https://veduca.sfo2.cdn.digitaloceanspaces.com/uploads/a15179eb372717b5d3e24064e5b41933.pdf
+
+## Daily
+
+**Objetivo:** 
+
+**Premissa:** 
+
+**Duração:** 
+
+##  Retrospectiva
+
+**Objetivo:** 
+
+**Premissa:** 
+
+**Duração:** 
+
+**Dinâmicas:** 
+* [Moving Motivators](https://management30.com/practice/moving-motivators/)
+
+## Planning
+
+**Objetivo:** 
+
+**Premissa:** 
+
+**Duração:** 
 
 
 
