@@ -232,9 +232,9 @@ Ao final, (1) agradecer por ter compartilhado e ser franco, (2) levantar os prin
 2) (Sentimentos) No ultimo ano, quando que você saiu dizendo "este foi um ótimo dia de trabalho"?
 3) (Sentimentos) No ultimo ano, quando que algo te gerou ansiedade ou frustração? / O que te causa apreensão ou medo no seu dia-a-dia de trabalho?
 4) (Sentimentos) Como você avalia relação vida pessoal e trabalho? Como ela poderia ser melhorada?
-5) (Desenvolvimento) O que você curte sobre as oportunidades de desenvolvimento profissionais aqui? E o que pode ser melhorado?
-6) (Desenvolvimento) Quais de seus talentos não estão sendo usados no seu trabalho atualmente?
-7) (Desenvolvimento) O que você gostava no seu último emprego/cargo que você não tem mais aqui? 
+5) (Desenvolvimento) Qual a sua maior realização aqui? Você entende que seu trabalho está te fazendo evoluir como profissional? 
+6) (Desenvolvimento) Quais de seus talentos não estão sendo usados no seu trabalho atualmente? / O que você gostava no seu último emprego/cargo que você não tem mais aqui? 
+7) (Desenvolvimento) Você concorda com o caminho que o nosso time está trilhando?
 8) (Desenvolvimento) Se você pudesse mudar uma coisa sobre o dia-a-dia, time ou empresa. O que seria?
 9) (Liderança) Que tipo de feedback ou reconhecimento você gostaria sobre sua performance que você no está recebendo?
 10) (Liderança) O que eu posso fazer para tornar o seu dia-a-dia melhor aqui com a gente?
