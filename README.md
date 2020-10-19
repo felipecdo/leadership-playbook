@@ -169,9 +169,6 @@ O desenvolvimento de software é algo que evolui muito rapidamente no tempo. Gar
 
 Algumas cerimônias são bem comuns no mundo de Software. Aqui traremos algumas dicas
 
-<!--
-WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP 
-
 ## One on Ones
 
 **Objetivo:** Esta é a cerimônia mais importante na construção de um relacionamento líder-liderado. É aqui que acompanhamos:
@@ -251,7 +248,7 @@ Modelo SCI ->
 5. Espero que... 
 6. Para que o impacto seja....
 
-
+<!--
 ## Daily
 
 **Objetivo:** 
