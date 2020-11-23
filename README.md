@@ -232,10 +232,10 @@ Ao final, (1) agradecer por ter compartilhado e ser franco, (2) levantar os prin
 5) (Desenvolvimento) Qual a sua maior realização aqui? Você entende que seu trabalho está te fazendo evoluir como profissional? 
 6) (Desenvolvimento) Quais de seus talentos não estão sendo usados no seu trabalho atualmente? / O que você gostava no seu último emprego/cargo que você não tem mais aqui? 
 7) (Desenvolvimento) Você concorda com o caminho que o nosso time está trilhando?
-8) (Desenvolvimento) Se você pudesse mudar uma coisa sobre o dia-a-dia, time ou empresa. O que seria?
-9) (Liderança) Que tipo de feedback ou reconhecimento você gostaria sobre sua performance que você no está recebendo?
-10) (Liderança) O que eu posso fazer para tornar o seu dia-a-dia melhor aqui com a gente?
-
+8) (Desenvolvimento) Se você pudesse mudar uma coisa sobre o dia-a-dia, time ou empresa. O que seria? 
+9) (Desenvolvimento) Se você fosse CTO/CEO o que mudaria/implementaria aqui?
+10) (Liderança) Que tipo de feedback ou reconhecimento você gostaria sobre sua performance que você no está recebendo?
+11) (Liderança) O que eu posso fazer para tornar o seu dia-a-dia melhor aqui com a gente?
 
 ## Feedbacks
 [[1](https://veduca.sfo2.cdn.digitaloceanspaces.com/uploads/a15179eb372717b5d3e24064e5b41933.pdf)]
