@@ -154,7 +154,9 @@ O desenvolvimento de software é algo que evolui muito rapidamente no tempo. Gar
 
 * Como metáfora (e até filosofia!), cada pessoa traz consigo uma história e diversas "rachaduras de ouro" que as fazem únicas e acrescentam uma visão diferente dentro do time. 
 
-* Pessoas de senioridade, cor, sexo, etnias diferentes dentro do time significa objetivamente ter mais formas de resolver problemas 
+* ["A diversidade não se limita às pessoas, mas ao que existe dentro delas, incluindo a diversidade das emoções."](https://www.ted.com/talks/susan_david_the_gift_and_power_of_emotional_courage/transcript?language=pt-br#t-865476)
+
+* Pessoas de senioridade, cor, sexo, etnias diferentes dentro do time significa objetivamente ter mais formas de resolver problemas. 
 
 * Não basta somente ter diversidade no time mas, como líder, prover mecanismos onde estas pessoas possam (1) Expressar, (2) Interagir, (3) Aprender e (4) Pertencer dentro do time e da organização (["Creating connections among followers is one of the most important tasks for leaders"](https://management30.com/energize-people/individuals-interactions/))
 
